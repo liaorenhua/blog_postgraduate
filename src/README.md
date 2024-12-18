@@ -6,7 +6,7 @@ title: leo博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: 记录技术和读书生活
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 每天学习2H+
 projects:
   - icon: project
     name: 项目名称
