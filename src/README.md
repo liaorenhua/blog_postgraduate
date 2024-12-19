@@ -2,7 +2,7 @@
 home: true
 layout: BlogHome
 icon: home
-title: leo博客主页
+title: Leo博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: 记录技术和读书生活
 heroFullScreen: true
