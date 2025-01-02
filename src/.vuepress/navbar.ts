@@ -6,6 +6,7 @@ export default navbar([
   "/monitor-tuning/",
 
   "/demo/",
+  "/life/",
   {
     text: "博文",
     icon: "pen-to-square",
@@ -47,6 +48,7 @@ export default navbar([
       "strawberry",
     ],
   },
+
   {
     text: "V2 文档",
     icon: "book",
