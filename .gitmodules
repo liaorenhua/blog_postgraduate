@@ -1,3 +1,0 @@
-[submodule "blog-files"]
-	path = src/.vuepress/public/file
-	url = git@github.com:Mister-Hope/blog-files.git
