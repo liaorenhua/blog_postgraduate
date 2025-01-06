@@ -26,21 +26,18 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22
-#          cache: npm
-          cache: pnpm
+          cache: npm
 
       - name: 安装依赖
         run: |
           corepack enable
-#          npm ci
-          pnpm ci
+          npm ci
 
       - name: 构建文档
         env:
           NODE_OPTIONS: --max_old_space_size=8192
         run: |-
-#          npm run docs:build
-          pnpm build:vite
+          npm run docs:build
           > src/.vuepress/dist/.nojekyll
 
       - name: 部署文档
