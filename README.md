@@ -1,12 +1,10 @@
-# blog_postgraduate
-博客(研一开始-2024.9)
+# 个人博客 / Personal Blog
 
-# 环境要求
-采用了npm高于20版本运行 | node -v v22.2.0; 
-nvm use 22.2.0  # 低了 他也不支持
+[![Author: Mr.Hope](https://img.shields.io/badge/Author-Mr.Hope-blue.svg?style=for-the-badge)](https://mister-hope.com)
+[![License](https://img.shields.io/github/license/mister-hope/mister-hope.github.io?style=for-the-badge)](https://github.com/Mister-Hope/Mister-Hope.github.io/blob/master/LICENSE)
 
-# 常见命令:
-npm install                 # 想启动的第一步
-npm run docs:dev            # 启动开发服务器
-npm run docs:build          # 构建项目并输出
-npm run docs:clean-dev      # 清除缓存并启动开发服务器
+使用 [VuePress2](https://vuejs.press/zh/) 与 [VuePress Theme Hope](https://theme-hope.vuejs.press/zh/) 搭建的个人博客
+
+A personal blog using [VuePress2](https://vuejs.press/) and [VuePress Theme Hope](https://theme-hope.vuejs.press/)
+
+## [博客地址](https://mister-hope.com) | [Blog link](https://mister-hope.github.io)
