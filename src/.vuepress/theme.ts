@@ -12,7 +12,9 @@ export default hopeTheme(
       url: "https://liaorenhua.github.io/blog_postgraduate/",
     },
 
-    favicon: "/favicon.ico",
+    // 网页的 tab标签 ico
+    // favicon: "/favicon.ico",
+    favicon: "/logo.png",
 
     iconAssets: "//at.alicdn.com/t/font_2410206_vuzkjonf4s9.css",
 
