@@ -11,8 +11,8 @@ breadcrumb: false
 
 ## 仓库链接
 
-- [**Mr.Hope 的个人博客**](https://github.com/Mister-Hope/Mister-Hope.github.io)
+- [**Mr.Leo 的个人博客**](http://localhost:8080/blog_postgraduate/)
 
 ## 版权声明
 
-此博客包含 [阮一峰](https://github.com/ruanyf) 和 [廖雪峰](https://weibo.com/liaoxuefeng) 两位老师的博客和书籍。作者和协议来源均已清晰的标注，在这里向他们致以诚挚的感谢。
+此博客包含 [阮一峰](https://github.com/ruanyf) 、 [廖雪峰](https://weibo.com/liaoxuefeng) 和 [Mr.Hope](https://mister-hope.com/) 两位老师的博客和书籍。作者和协议来源均已清晰的标注，在这里向他们致以诚挚的感谢。
