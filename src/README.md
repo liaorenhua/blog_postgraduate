@@ -1,12 +1,12 @@
 ---
-date: 2022-01-07
+date: 2025-01-07
 home: true
 layout: BlogHome
 icon: home
 title: 主页
 heroImage: /logo.svg
-heroText: 𝓜𝓻. 𝓗𝓸𝓹𝓮
-tagline: Where there is light, there is hope
+heroText: 𝓜𝓻.𝓵𝓮𝓸
+tagline: 博客承载思想，文字点燃激情
 head:
   - - meta
     - name: baidu-site-verification
@@ -34,10 +34,10 @@ projects:
     link: https://waline.js.org/
     icon: https://waline.js.org/logo.png
 
-  - name: inNENU
-    desc: 100 万字的东师攻略，全方位的东师生活介绍，东师新生们的最佳入学指南❤
-    link: https://innenu.com
-    icon: /assets/img/inNENU.png
+  - name: technical
+    desc: 技术博客❤
+    link: https://liaorenhua.github.io/blog_technical/
+    icon: /assets/img/vuepress.png
 
   - name: markdown-it plugins
     desc: 使用 TS 编写的强大 markdown-it 插件

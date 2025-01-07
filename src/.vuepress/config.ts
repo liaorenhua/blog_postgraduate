@@ -8,7 +8,7 @@ import theme from "./theme.js";
 export default <UserConfig>defineUserConfig({
   dest: "dist",
 
-  // 2025年1月5日  廖仁华 这里要发布到github这就要改为: blog_technical,代价就是显示的logo无效了
+  // 2025年1月5日  廖仁华 这里要发布到github这就要改为: blog_postgraduate
   base: "/blog_postgraduate/",
 
   head: [
