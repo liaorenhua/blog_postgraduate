@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://mister-hope.com/en/atom.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://mister-hope.com/blog_postgraduate/en/atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
-  <id>https://mister-hope.com/en/</id>
+  <id>https://mister-hope.com/blog_postgraduate/en/</id>
   <title>My name is Mr.Hope</title>
   <subtitle>Mr.Hope personal blog</subtitle>
-  <icon>https://mister-hope.com/favicon.ico</icon>
+  <icon>https://mister-hope.com/blog_postgraduate/favicon.ico</icon>
   <rights>MIT Licensed, © 2019-present Mr.Hope</rights>
-  <updated>2025-01-07T03:07:07.812Z</updated>
+  <updated>2025-01-07T03:40:45.286Z</updated>
   <generator>@vuepress/plugin-feed</generator>
-  <link rel="self" href="https://mister-hope.com/en/atom.xml"/>
-  <link rel="alternate" href="https://mister-hope.com/en/"/>
+  <link rel="self" href="https://mister-hope.com/blog_postgraduate/en/atom.xml"/>
+  <link rel="alternate" href="https://mister-hope.com/blog_postgraduate/en/"/>
   <entry>
     <title type="text">Mr.Hope Intro</title>
-    <id>https://mister-hope.com/en/about/</id>
-    <link href="https://mister-hope.com/en/about/"/>
+    <id>https://mister-hope.com/blog_postgraduate/en/about/</id>
+    <link href="https://mister-hope.com/blog_postgraduate/en/about/"/>
     <updated>2025-01-07T02:58:54.000Z</updated>
     <published>2022-01-07T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">About site</title>
-    <id>https://mister-hope.com/en/about/site.html</id>
-    <link href="https://mister-hope.com/en/about/site.html"/>
+    <id>https://mister-hope.com/blog_postgraduate/en/about/site.html</id>
+    <link href="https://mister-hope.com/blog_postgraduate/en/about/site.html"/>
     <updated>2025-01-07T02:58:54.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container tip">
@@ -47,8 +47,8 @@
   </entry>
   <entry>
     <title type="text">Code Note</title>
-    <id>https://mister-hope.com/en/code/</id>
-    <link href="https://mister-hope.com/en/code/"/>
+    <id>https://mister-hope.com/blog_postgraduate/en/code/</id>
+    <link href="https://mister-hope.com/blog_postgraduate/en/code/"/>
     <updated>2025-01-07T02:58:54.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">Info</p>
@@ -64,8 +64,8 @@
   </entry>
   <entry>
     <title type="text">Notes</title>
-    <id>https://mister-hope.com/en/note/</id>
-    <link href="https://mister-hope.com/en/note/"/>
+    <id>https://mister-hope.com/blog_postgraduate/en/note/</id>
+    <link href="https://mister-hope.com/blog_postgraduate/en/note/"/>
     <updated>2025-01-07T02:58:54.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">Tips</p>
@@ -91,16 +91,16 @@
 </div>
 <ul>
 <li>
-<p><a href="/note/fall/" target="_blank">Autumn Thought</a></p>
+<p><a href="/blog_postgraduate/note/fall/" target="_blank">Autumn Thought</a></p>
 </li>
 <li>
-<p><a href="/note/winter/" target="_blank">Winter Words</a></p>
+<p><a href="/blog_postgraduate/note/winter/" target="_blank">Winter Words</a></p>
 </li>
 <li>
-<p><a href="/note/spring/" target="_blank">Spring Poetry</a></p>
+<p><a href="/blog_postgraduate/note/spring/" target="_blank">Spring Poetry</a></p>
 </li>
 <li>
-<p><a href="/note/summer/" target="_blank">Summer Songs</a></p>
+<p><a href="/blog_postgraduate/note/summer/" target="_blank">Summer Songs</a></p>
 </li>
 </ul>
 <div class="hint-container tip">
@@ -114,7 +114,7 @@
 <p>Recently, I moved it as a teenager’s memory in my blog.</p>
 </div>
 <ul>
-<li><a href="/note/life/" target="_blank">Details</a></li>
+<li><a href="/blog_postgraduate/note/life/" target="_blank">Details</a></li>
 </ul>
 <h2>Whisper</h2>
 <div class="hint-container tip">
@@ -123,15 +123,15 @@
 <p>Recently, I moved it as a teenager’s memory in my blog.</p>
 </div>
 <ul>
-<li><a href="/note/poem/" target="_blank">Details</a></li>
+<li><a href="/blog_postgraduate/note/poem/" target="_blank">Details</a></li>
 </ul>
 ]]></content>
     <published>2022-01-07T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">Software</title>
-    <id>https://mister-hope.com/en/software/</id>
-    <link href="https://mister-hope.com/en/software/"/>
+    <id>https://mister-hope.com/blog_postgraduate/en/software/</id>
+    <link href="https://mister-hope.com/blog_postgraduate/en/software/"/>
     <updated>2025-01-07T02:58:54.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">Info</p>
@@ -139,7 +139,7 @@
 </div>
 <h2>Http Server</h2>
 <ul>
-<li><a href="/en/software/nginx.html" target="_blank">Nginx</a></li>
+<li><a href="/blog_postgraduate/en/software/nginx.html" target="_blank">Nginx</a></li>
 </ul>
 ]]></summary>
     <content type="html"><![CDATA[<div class="hint-container info">
@@ -148,15 +148,15 @@
 </div>
 <h2>Http Server</h2>
 <ul>
-<li><a href="/en/software/nginx.html" target="_blank">Nginx</a></li>
+<li><a href="/blog_postgraduate/en/software/nginx.html" target="_blank">Nginx</a></li>
 </ul>
 ]]></content>
     <published>2022-01-07T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">Nginx</title>
-    <id>https://mister-hope.com/en/software/nginx.html</id>
-    <link href="https://mister-hope.com/en/software/nginx.html"/>
+    <id>https://mister-hope.com/blog_postgraduate/en/software/nginx.html</id>
+    <link href="https://mister-hope.com/blog_postgraduate/en/software/nginx.html"/>
     <updated>2025-01-07T02:58:54.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>Intro</h2>

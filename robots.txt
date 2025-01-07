@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://mister-hope.com/sitemap.xml
+Sitemap: https://mister-hope.com/blog_postgraduate/sitemap.xml
