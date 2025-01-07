@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <atom:link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/rss.xml" rel="self" type="application/rss+xml"/>
-    <title>Mr.Hope</title>
+    <title>Leo blog</title>
     <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/</link>
-    <description>Where there is light, there is hope.</description>
+    <description>博客承载思想，文字点燃激情.</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 07 Jan 2025 10:53:02 GMT</pubDate>
-    <lastBuildDate>Tue, 07 Jan 2025 10:53:02 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Jan 2025 12:54:53 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Jan 2025 12:54:53 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>基于 MIT 协议，© 2025-至今 Leo</copyright>
@@ -40,9 +40,9 @@
       <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/code/</link>
       <guid>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/code/</guid>
       <source url="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/rss.xml">代码笔记</source>
-      <description>此处是 Mr.Hope 存放的一些代码笔记。</description>
-      <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>此处是 Mr.Hope 存放的一些代码笔记。</p>
+      <description>此处是 Leo 存放的一些代码笔记。</description>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>此处是 Leo 存放的一些代码笔记。</p>
 <!-- more -->
 <h2>目录</h2>
 <h3>基础</h3>
@@ -573,14 +573,14 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Mr.Hope 的随笔</title>
+      <title>Leo 的随笔</title>
       <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/</link>
       <guid>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/</guid>
-      <source url="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/rss.xml">Mr.Hope 的随笔</source>
-      <description>这里是 Mr.Hope 的一些随笔，后续被整理进博客中。 四季 介绍 这是我在高一写的散文诗集，最初发表在空间日志上。 后续也写了一些诗补充了进去，其中以 “秋之思” 篇幅最多 近日将其作为少年回忆，整理在博客中。 其他方式 也可查看 空间相册 笑谈人生 介绍 这是我在高一写的人生感悟，最初发表在空间日志上。 近日将其作为少年回忆，整理在博客中。 轻言...</description>
+      <source url="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/rss.xml">Leo 的随笔</source>
+      <description>这里是 Leo 的一些随笔，后续被整理进博客中。 四季 介绍 这是我在高一写的散文诗集，最初发表在空间日志上。 后续也写了一些诗补充了进去，其中以 “秋之思” 篇幅最多 近日将其作为少年回忆，整理在博客中。 其他方式 也可查看 空间相册 笑谈人生 介绍 这是我在高一写的人生感悟，最初发表在空间日志上。 近日将其作为少年回忆，整理在博客中。 轻言细语 介...</description>
       <category>随笔</category>
-      <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>这里是 Mr.Hope 的一些随笔，后续被整理进博客中。</p>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>这里是 Leo 的一些随笔，后续被整理进博客中。</p>
 <h2>四季</h2>
 <div class="hint-container tip">
 <p class="hint-container-title">介绍</p>

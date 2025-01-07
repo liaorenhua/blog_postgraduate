@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/</id>
-  <title>My name is Mr.Hope</title>
-  <subtitle>Mr.Hope personal blog</subtitle>
+  <title>My name is Leo</title>
+  <subtitle>Leo personal blog</subtitle>
   <icon>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/favicon.ico</icon>
   <rights>MIT Licensed, © 2025-present Leo</rights>
-  <updated>2025-01-07T10:53:02.828Z</updated>
+  <updated>2025-01-07T12:54:53.470Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/atom.xml"/>
   <link rel="alternate" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/"/>

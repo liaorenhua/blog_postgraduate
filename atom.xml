@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/</id>
-  <title>Mr.Hope</title>
-  <subtitle>Where there is light, there is hope.</subtitle>
+  <title>Leo blog</title>
+  <subtitle>博客承载思想，文字点燃激情.</subtitle>
   <icon>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/favicon.ico</icon>
   <rights>基于 MIT 协议，© 2025-至今 Leo</rights>
-  <updated>2025-01-07T10:53:02.828Z</updated>
+  <updated>2025-01-07T12:54:53.470Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/atom.xml"/>
   <link rel="alternate" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/"/>
@@ -46,10 +46,10 @@
     <title type="text">代码笔记</title>
     <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/code/</id>
     <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/code/"/>
-    <updated>2025-01-07T02:58:54.000Z</updated>
-    <summary type="html"><![CDATA[<p>此处是 Mr.Hope 存放的一些代码笔记。</p>
+    <updated>2025-01-07T12:51:21.000Z</updated>
+    <summary type="html"><![CDATA[<p>此处是 Leo 存放的一些代码笔记。</p>
 ]]></summary>
-    <content type="html"><![CDATA[<p>此处是 Mr.Hope 存放的一些代码笔记。</p>
+    <content type="html"><![CDATA[<p>此处是 Leo 存放的一些代码笔记。</p>
 <!-- more -->
 <h2>目录</h2>
 <h3>基础</h3>
@@ -144,7 +144,7 @@
 </li>
 </ul>
 ]]></content>
-    <published>2022-01-07T00:00:00.000Z</published>
+    <published>2025-01-07T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">APP 组件设计规范</title>
@@ -709,11 +709,11 @@
     <published>2021-04-19T00:00:00.000Z</published>
   </entry>
   <entry>
-    <title type="text">Mr.Hope 的随笔</title>
+    <title type="text">Leo 的随笔</title>
     <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/</id>
     <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/"/>
-    <updated>2025-01-07T02:58:54.000Z</updated>
-    <summary type="html"><![CDATA[<p>这里是 Mr.Hope 的一些随笔，后续被整理进博客中。</p>
+    <updated>2025-01-07T12:51:21.000Z</updated>
+    <summary type="html"><![CDATA[<p>这里是 Leo 的一些随笔，后续被整理进博客中。</p>
 <h2>四季</h2>
 <div class="hint-container tip">
 <p class="hint-container-title">介绍</p>
@@ -735,7 +735,7 @@
 <p><a href="/blog_postgraduate/note/summer/1.html" target="_blank">夏之歌</a></p>
 </li>
 </ul>]]></summary>
-    <content type="html"><![CDATA[<p>这里是 Mr.Hope 的一些随笔，后续被整理进博客中。</p>
+    <content type="html"><![CDATA[<p>这里是 Leo 的一些随笔，后续被整理进博客中。</p>
 <h2>四季</h2>
 <div class="hint-container tip">
 <p class="hint-container-title">介绍</p>
@@ -785,7 +785,7 @@
 </ul>
 ]]></content>
     <category term="随笔"/>
-    <published>2022-01-07T00:00:00.000Z</published>
+    <published>2025-01-07T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">物理笔记</title>
