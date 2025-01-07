@@ -1,5 +1,5 @@
 ---
-date: 2022-01-07
+date: 2025-01-07
 title: 代码笔记
 icon: code
 star: true
@@ -7,7 +7,7 @@ sticky: 20
 next: ./basic/
 ---
 
-此处是 Mr.Hope 存放的一些代码笔记。
+此处是 Leo 存放的一些代码笔记。
 
 <!-- more -->
 

@@ -4,7 +4,8 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-heroImage: /logo.svg
+#heroImage: /logo.svg
+heroImage: /logo.png
 heroText: 𝓜𝓻.𝓵𝓮𝓸
 tagline: 博客承载思想，文字点燃激情
 head:
@@ -64,5 +65,7 @@ projects:
     link: https://github.com/miniapp-tool/mptool
     icon: https://miniapp-tool.github.io/logo.png
 
-footer: '<a href="http://beian.miit.gov.cn/" rel="noopener noreferrer" target="_blank" style="color:inherit;text-decoration:none;white-space:nowrap;">辽ICP备 18007023 号</a> / <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=21030202000276" rel="noopener noreferrer" target="_blank" style="color:inherit;text-decoration:none;white-space:nowrap;"><img src="/ghs.png" style="width:1rem;vertical-align:middle;"> 辽公网安备 21030202000276 号</a> | <a href="/about/site.html">关于网站</a>'
+#footer: '<a href="http://beian.miit.gov.cn/" rel="noopener noreferrer" target="_blank" style="color:inherit;text-decoration:none;white-space:nowrap;">辽ICP备 18007023 号</a> / <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=21030202000276" rel="noopener noreferrer" target="_blank" style="color:inherit;text-decoration:none;white-space:nowrap;"><img src="/ghs.png" style="width:1rem;vertical-align:middle;"> 辽公网安备 21030202000276 号</a> | <a href="/about/site.html">关于网站</a>'
+# 上面可以显示网站所属
+footer: '<a href="https://liaorenhua.github.io/blog_postgraduate/about/site.html">关于网站</a>'
 ---

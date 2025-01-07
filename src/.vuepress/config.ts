@@ -25,14 +25,14 @@ export default <UserConfig>defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "Mr.Hope",
-      description: "Where there is light, there is hope.",
+      title: "Leo blog",
+      description: "博客承载思想，文字点燃激情.",
     },
 
     "/en/": {
       lang: "en-US",
-      title: "My name is Mr.Hope",
-      description: "Mr.Hope personal blog",
+      title: "My name is Leo",
+      description: "Leo personal blog",
     },
   },
 

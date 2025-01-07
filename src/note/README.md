@@ -1,13 +1,13 @@
 ---
-date: 2022-01-07
-title: Mr.Hope 的随笔
+date: 2025-01-07
+title: Leo 的随笔
 icon: note
 category: 随笔
 star: 9
 sticky: 9
 ---
 
-这里是 Mr.Hope 的一些随笔，后续被整理进博客中。
+这里是 Leo 的一些随笔，后续被整理进博客中。
 
 ## 四季
 

@@ -16,7 +16,8 @@ export default hopeTheme(
 
     iconAssets: "//at.alicdn.com/t/font_2410206_vuzkjonf4s9.css",
 
-    logo: "/logo.svg",
+    // logo: "/logo.svg",
+    logo: "/logo.png",
 
     repo: "https://github.com",
 
