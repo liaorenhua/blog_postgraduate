@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://mister-hope.com/blog_postgraduate/sitemap.xml
+Sitemap: https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/sitemap.xml

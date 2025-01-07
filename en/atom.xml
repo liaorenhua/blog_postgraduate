@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://mister-hope.com/blog_postgraduate/en/atom.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
-  <id>https://mister-hope.com/blog_postgraduate/en/</id>
+  <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/</id>
   <title>My name is Mr.Hope</title>
   <subtitle>Mr.Hope personal blog</subtitle>
-  <icon>https://mister-hope.com/blog_postgraduate/favicon.ico</icon>
-  <rights>MIT Licensed, © 2019-present Mr.Hope</rights>
-  <updated>2025-01-07T03:40:45.286Z</updated>
+  <icon>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/favicon.ico</icon>
+  <rights>MIT Licensed, © 2025-present Leo</rights>
+  <updated>2025-01-07T10:27:11.950Z</updated>
   <generator>@vuepress/plugin-feed</generator>
-  <link rel="self" href="https://mister-hope.com/blog_postgraduate/en/atom.xml"/>
-  <link rel="alternate" href="https://mister-hope.com/blog_postgraduate/en/"/>
+  <link rel="self" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/atom.xml"/>
+  <link rel="alternate" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/"/>
   <entry>
     <title type="text">Mr.Hope Intro</title>
-    <id>https://mister-hope.com/blog_postgraduate/en/about/</id>
-    <link href="https://mister-hope.com/blog_postgraduate/en/about/"/>
+    <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/about/</id>
+    <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/about/"/>
     <updated>2025-01-07T02:58:54.000Z</updated>
     <published>2022-01-07T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">About site</title>
-    <id>https://mister-hope.com/blog_postgraduate/en/about/site.html</id>
-    <link href="https://mister-hope.com/blog_postgraduate/en/about/site.html"/>
+    <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/about/site.html</id>
+    <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/about/site.html"/>
     <updated>2025-01-07T02:58:54.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container tip">
@@ -47,8 +47,8 @@
   </entry>
   <entry>
     <title type="text">Code Note</title>
-    <id>https://mister-hope.com/blog_postgraduate/en/code/</id>
-    <link href="https://mister-hope.com/blog_postgraduate/en/code/"/>
+    <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/code/</id>
+    <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/code/"/>
     <updated>2025-01-07T02:58:54.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">Info</p>
@@ -64,8 +64,8 @@
   </entry>
   <entry>
     <title type="text">Notes</title>
-    <id>https://mister-hope.com/blog_postgraduate/en/note/</id>
-    <link href="https://mister-hope.com/blog_postgraduate/en/note/"/>
+    <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/note/</id>
+    <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/note/"/>
     <updated>2025-01-07T02:58:54.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">Tips</p>
@@ -130,8 +130,8 @@
   </entry>
   <entry>
     <title type="text">Software</title>
-    <id>https://mister-hope.com/blog_postgraduate/en/software/</id>
-    <link href="https://mister-hope.com/blog_postgraduate/en/software/"/>
+    <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/software/</id>
+    <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/software/"/>
     <updated>2025-01-07T02:58:54.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container info">
 <p class="hint-container-title">Info</p>
@@ -155,8 +155,8 @@
   </entry>
   <entry>
     <title type="text">Nginx</title>
-    <id>https://mister-hope.com/blog_postgraduate/en/software/nginx.html</id>
-    <link href="https://mister-hope.com/blog_postgraduate/en/software/nginx.html"/>
+    <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/software/nginx.html</id>
+    <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/software/nginx.html"/>
     <updated>2025-01-07T02:58:54.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>Intro</h2>
