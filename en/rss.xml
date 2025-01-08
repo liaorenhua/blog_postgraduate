@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <atom:link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/rss.xml" rel="self" type="application/rss+xml"/>
-    <title>My name is Leo</title>
+    <title>𝓛𝓮𝓸 𝓑𝓛𝓸𝓖</title>
     <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/</link>
     <description>Leo personal blog</description>
     <language>en-US</language>
-    <pubDate>Tue, 07 Jan 2025 13:04:27 GMT</pubDate>
-    <lastBuildDate>Tue, 07 Jan 2025 13:04:27 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Jan 2025 10:45:25 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Jan 2025 10:45:25 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>MIT Licensed, © 2025-present Leo</copyright>
