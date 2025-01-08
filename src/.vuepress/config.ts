@@ -25,13 +25,14 @@ export default <UserConfig>defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "Leo blog",
+      // https://www.bilibili.com/opus/677099352364154880 这里存放了好多的内容
+      title: "𝓛𝓮𝓸 𝓑𝓛𝓸𝓖",
       description: "博客承载思想，文字点燃激情.",
     },
 
     "/en/": {
       lang: "en-US",
-      title: "My name is Leo",
+      title: "𝓛𝓮𝓸 𝓑𝓛𝓸𝓖",
       description: "Leo personal blog",
     },
   },
