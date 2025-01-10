@@ -144,8 +144,9 @@ export default hopeTheme(
         },
         manifest: {
           name: "Leo 的个人博客",
-          short_name: "Leo Blog",
-          description: "Leo 的个人博客",
+          // https://www.bilibili.com/opus/677099352364154880 改字体的参考
+          short_name: "𝓜𝓻.𝓵𝓮𝓸 𝓑𝓵𝓸𝓰",
+          description: "𝓵𝓮𝓸 的个人博客",
           theme_color: "#5c92d1",
           icons: [
             {
