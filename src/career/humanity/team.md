@@ -4,7 +4,7 @@ icon: humanity
 date: 2025-01-12
 category: career
 tag:
-  - career
+  - 团队管理
 order: 4
 ---
 团队人员的管理
