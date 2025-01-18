@@ -23,11 +23,15 @@ export const zhNavbarConfig = navbar([
     ],
   },
   {
-    text: "随笔",
+    text: "读书",
     icon: "note",
     prefix: "/note/",
     children: [
       { text: "随笔", link: "", icon: "note", activeMatch: "^/note/$" },
+      {
+        text: "读研",
+        children: ["postgraduate/"],
+      },
       {
         text: "诗集: 四季",
         children: ["spring/", "summer/", "fall/", "winter/"],
