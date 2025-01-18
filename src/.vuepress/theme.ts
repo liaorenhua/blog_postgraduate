@@ -109,6 +109,12 @@ export default hopeTheme(
     },
 
     plugins: {
+      // 2025年1月18日 想新增 BiliBili 视频  所以加了下面代码
+      components: {
+        components: ["Badge", "BiliBili", "VPCard", "VidStack"],
+      },
+
+
       blog: {
         excerptLength: 0,
       },
