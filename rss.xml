@@ -6,15 +6,15 @@
     <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/</link>
     <description>博客承载思想，文字点燃激情.</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 16 Feb 2025 05:53:19 GMT</pubDate>
-    <lastBuildDate>Sun, 16 Feb 2025 05:53:19 GMT</lastBuildDate>
+    <pubDate>Sun, 16 Feb 2025 13:01:02 GMT</pubDate>
+    <lastBuildDate>Sun, 16 Feb 2025 13:01:02 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>基于 MIT 协议，© 2025-至今 Leo</copyright>
+    <category>课程-管理信息系统</category>
     <category>课程-项目管理概论</category>
     <category>论文</category>
     <category>读书</category>
-    <category>课程-管理信息系统</category>
     <category>career</category>
     <category>设计</category>
     <category>硬件</category>
@@ -33,11 +33,52 @@
     <category>Vue</category>
     <category>JavaScript</category>
     <item>
+      <title>课程-企业投融资</title>
+      <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_enterprise_investment_and_financing_manage.html</link>
+      <guid>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_enterprise_investment_and_financing_manage.html</guid>
+      <source url="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/rss.xml">课程-企业投融资</source>
+      <description>课程-企业投融资 2025年2月16日 第一节课 罗忠洲 参考书：《投资银行学》， 《证券投资分析》罗老师自己编写的 本课能学到 要求： 到课率和模拟投资 30%； 要求：只能开一个账户，最少买卖2次 写论文要写3K文字(不能抄，会查重 重复率不超过10%) 70%； 要求：所学投资心得 上课时间: 15:40 -&amp;gt; 18:40 第一次课 证券基金和债...</description>
+      <category>课程-管理信息系统</category>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<blockquote>
+<p>2025年2月16日 第一节课<br>
+罗忠洲<br>
+参考书：《投资银行学》， 《证券投资分析》罗老师自己编写的</p>
+<p>本课能学到</p>
+<p>要求：<br>
+到课率和模拟投资 30%；  要求：只能开一个账户，最少买卖2次  <br>
+写论文要写3K文字(不能抄，会查重 重复率不超过10%)  70%；  要求：所学投资心得   <br>
+上课时间:<br>
+15:40 -&gt; 18:40</p>
+</blockquote>
+<h2>第一次课</h2>
+<p>证券基金和债券投资</p>
+<blockquote>
+<p><strong>ST股票一律不要碰</strong><br>
+ST股票是指在中国A股市场中，由于财务状况或其他异常情况，被上海证券交易所或深圳证券交易所实施特别处理（Special Treatment, 简称ST）
+的上市公司的股票。这些特殊情况通常包括但不限于连续两年亏损、每股净资产低于股票面值、财务报告存在重大问题、公司生产经营活动受到严重影
+响等。 一旦某只股票被标记为ST，这意味着该公司处于一种风险警示状态，旨在提醒投资者注意投资风险。ST股票的交易有一些特殊的规则：<br>
+股票报价的日涨跌幅限制为5%，而不是普通股票的10%。
+股票名称前会加上“ST”标识，以区别于其他非ST股票。
+上市公司的中期报告必须经过审计。
+此外，如果一家公司的财务状况进一步恶化，例如连续三年亏损，则该公司的股票会被标记为*ST，这表示退市预警。这类股票面临更大的退市风险，
+除非公司能够在规定的时间内改善其财务状况。
+投资者在考虑投资ST股票时应格外谨慎，并进行充分的研究和分析。虽然一些ST股票可能因为重组等原因而具有潜在的投资价值，但总体来说，
+它们的风险较高。</p>
+</blockquote>
+<blockquote>
+<p><strong>入市原则</strong><br>
+</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
       <title>课程-项目管理概论(陆)</title>
       <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_PM_manage.html</link>
       <guid>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_PM_manage.html</guid>
       <source url="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/rss.xml">课程-项目管理概论(陆)</source>
-      <description>课程-项目管理概论(陆) 2025年2月16日 第一节课 陆起涌 lqyong@hotmail.com 参考书： 《项目管理案例教程》 白思俊主编 2014年， 机械出版社 本课能学到 要求： 时间: 12:30-15:30 到课率和表现 10% 人少则点名 作业 30% 10人 &amp;lt; 课题团队 &amp;lt; 15人 个人期末考试 60% 4月12日考试; 按照项...</description>
+      <description>课程-项目管理概论(陆) 2025年2月16日 第一节课 陆起涌 lqyong@hotmail.com 参考书： 《项目管理案例教程》 白思俊主编 2014年， 机械出版社 本课能学到 要求： 时间: 12:30-15:30 到课率和表现 10% 人少则点名 作业(项目管理案例-要出pmp相关图表) 30% 10人 &amp;lt; 课题团队 &amp;lt; 15人 | 个人期...</description>
       <category>课程-项目管理概论</category>
       <pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -49,11 +90,33 @@
 <p>要求：  <br>
 时间: 12:30-15:30 <br>
 到课率和表现 10%  人少则点名  <br>
-作业 30%     10人 &lt; 课题团队 &lt; 15人  <br>
+作业(项目管理案例-要出pmp相关图表) 30%     10人 &lt; 课题团队 &lt; 15人 |   <br>
 个人期末考试 60%  4月12日考试;      <br>
 按照项目管理要求，组队完成某个课题，并且进行汇报。  <br></p>
 </blockquote>
 <h2>第一次课</h2>
+<p>介绍 甘特图
+进度控制管理</p>
+<p>系统观念
+• 系统的观念就是整体最优的观念，是在人类认识社会、认识自然的过程中形成的整体观念，或称全局观念。<br>
+• “丁渭工程”<br>
+-修建用的砖瓦
+– 水的来源
+– 建筑石材、木材的运输
+– 废墟的排除与清理
+宋代科学家沈括在《梦溪笔谈》中曾记载过这样一个故事：在我国北宋真宗年间，
+首都汴京（即今开封）发生大火灾，皇宫被烧为灰烬。大臣丁渭受命主持皇宫修复
+工程。他从众多方案中综合出了一个最佳方案，这个最佳方案使丁渭走向成功，提
+前完成了“皇宫修复工程”并使他名垂青史。（挖河－制砖瓦、运输、废墟－填河）</p>
+<p>系统思维能力—<br>
+应用系统工程方法论处理问题的能力<br>
+• 核心是掌握一个定律：<br>
+把混乱的东西——条理化：系统<br>
+把条理的东西——合理化：科学<br>
+把合理的东西——细分化：细节<br>
+把细化了东西——有机化：和谐<br>
+把有机的东西——最优化：多(范围)、快(效率)、省(成本)、好(质量)<br>
+鼓足干劲、力争上游、多快好省地建设社会主义！</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -110,6 +173,9 @@
 </li>
 <li>
 <p><a href="/blog_postgraduate/note/postgraduate/course_PM_manage.html" target="_blank">课程-项目管理概论</a></p>
+</li>
+<li>
+<p><a href="/blog_postgraduate/note/postgraduate/course_enterprise_investment_and_financing_manage.html" target="_blank">课程-企业融投资</a></p>
 </li>
 <li>
 <p><a href="/blog_postgraduate/note/postgraduate/paper.html" target="_blank">论文</a></p>
@@ -1244,6 +1310,39 @@
       <description>Postman 是一个强大的抓包与网络调试工具。</description>
       <pubDate>Mon, 04 May 2020 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>Postman 是一个强大的抓包与网络调试工具。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Windows 开发</title>
+      <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/career/humanity/developers.html</link>
+      <guid>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/career/humanity/developers.html</guid>
+      <source url="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/rss.xml">Windows 开发</source>
+      <description>本文主要介绍 Windows 11 系统下，与开发相关的功能。 WSL WSL 是 Windows Subsystem for Linux 的缩写，即 Windows 的 Linux 子系统。Windows 11 支持 WSL2，同时支持 wslg，即 WSL 图形化。 你可以很方便的启用 Windows For Linux 子系统，然后在 Windo...</description>
+      <category>基础</category>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>本文主要介绍 Windows 11 系统下，与开发相关的功能。</p>
+<h2>WSL</h2>
+<p>WSL 是 Windows Subsystem for Linux 的缩写，即 Windows 的 Linux 子系统。Windows 11 支持 WSL2，同时支持 wslg，即 WSL 图形化。</p>
+<p>你可以很方便的启用 Windows For Linux 子系统，然后在 Windows 11 上安装 Linux 发行版，如 Ubuntu、Debian、Kali 等，然后在 Linux 环境下进行开发，同时启用 wslg，即可在 Windows 11 上使用 Linux 图形化应用如 Firefox 等进行调试。</p>
+<h3>安装 WSL</h3>
+<p>你可以使用单个命令安装运行 WSL 所需的一切内容。 在管理员模式下打开 PowerShell 或 Windows 命令提示符，方法是右键单击并选择“以管理员身份运行”，输入 <code>wsl --install</code> 命令，然后重启计算机。</p>
+<div class="hint-container info">
+<p class="hint-container-title">相关信息</p>
+<p>有关 WSL 的详细内容，详见 <a href="https://learn.microsoft.com/zh-cn/windows/wsl/" target="_blank" rel="noopener noreferrer">WSL 官方文档</a>。</p>
+</div>
+<h2>WSA</h2>
+<p>WSA 是 Windows Subsystem for Android 的缩写，即 Windows 的 Android 子系统。Windows 11 支持 WSA，你可以在 Windows 11 上安装 Android 应用，如微信、QQ、抖音等，然后在 Windows 11 上使用。</p>
+<p>默认情况下，你只能通过 WSA 内置的 Amazon 应用商店安装应用，但是你可以打开开发者模式通过 adb 安装任意应用的 APK。</p>
+<div class="hint-container info">
+<p class="hint-container-title">相关信息</p>
+<p>有关 WSA 的详细内容，详见 <a href="https://learn.microsoft.com/zh-cn/windows/android/wsa/" target="_blank" rel="noopener noreferrer">WSA 官方文档</a>。</p>
+</div>
+<h2>Windows 终端</h2>
+<p>Windows 终端是一个新式主机应用程序，它面向你喜爱的命令行 shell，如命令提示符、PowerShell 和 bash（通过适用于 Linux 的 Windows 子系统 (WSL)）。 它的主要功能包括多个选项卡、窗格、Unicode 和 UTF-8 字符支持、GPU 加速文本呈现引擎，你还可用它来创建你自己的主题并自定义文本、颜色、背景和快捷方式。</p>
+<p>更多内容详见 <a href="/blog_postgraduate/software/tool/terminal/" target="_blank">软件 → Windows 终端</a>。</p>
+<h2>PowerToys</h2>
+<p>Microsoft PowerToys 是一组实用工具，可帮助高级用户调整和简化其 Windows 体验，从而提高工作效率。</p>
+<p>更多内容详见 <a href="/blog_postgraduate/software/tool/power-toys.html" target="_blank">软件 → PowerToys</a>。</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -3964,39 +4063,6 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
 ]]></content:encoded>
     </item>
     <item>
-      <title>Windows 开发</title>
-      <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/career/humanity/developers.html</link>
-      <guid>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/career/humanity/developers.html</guid>
-      <source url="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/rss.xml">Windows 开发</source>
-      <description>本文主要介绍 Windows 11 系统下，与开发相关的功能。 WSL WSL 是 Windows Subsystem for Linux 的缩写，即 Windows 的 Linux 子系统。Windows 11 支持 WSL2，同时支持 wslg，即 WSL 图形化。 你可以很方便的启用 Windows For Linux 子系统，然后在 Windo...</description>
-      <category>基础</category>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>本文主要介绍 Windows 11 系统下，与开发相关的功能。</p>
-<h2>WSL</h2>
-<p>WSL 是 Windows Subsystem for Linux 的缩写，即 Windows 的 Linux 子系统。Windows 11 支持 WSL2，同时支持 wslg，即 WSL 图形化。</p>
-<p>你可以很方便的启用 Windows For Linux 子系统，然后在 Windows 11 上安装 Linux 发行版，如 Ubuntu、Debian、Kali 等，然后在 Linux 环境下进行开发，同时启用 wslg，即可在 Windows 11 上使用 Linux 图形化应用如 Firefox 等进行调试。</p>
-<h3>安装 WSL</h3>
-<p>你可以使用单个命令安装运行 WSL 所需的一切内容。 在管理员模式下打开 PowerShell 或 Windows 命令提示符，方法是右键单击并选择“以管理员身份运行”，输入 <code>wsl --install</code> 命令，然后重启计算机。</p>
-<div class="hint-container info">
-<p class="hint-container-title">相关信息</p>
-<p>有关 WSL 的详细内容，详见 <a href="https://learn.microsoft.com/zh-cn/windows/wsl/" target="_blank" rel="noopener noreferrer">WSL 官方文档</a>。</p>
-</div>
-<h2>WSA</h2>
-<p>WSA 是 Windows Subsystem for Android 的缩写，即 Windows 的 Android 子系统。Windows 11 支持 WSA，你可以在 Windows 11 上安装 Android 应用，如微信、QQ、抖音等，然后在 Windows 11 上使用。</p>
-<p>默认情况下，你只能通过 WSA 内置的 Amazon 应用商店安装应用，但是你可以打开开发者模式通过 adb 安装任意应用的 APK。</p>
-<div class="hint-container info">
-<p class="hint-container-title">相关信息</p>
-<p>有关 WSA 的详细内容，详见 <a href="https://learn.microsoft.com/zh-cn/windows/android/wsa/" target="_blank" rel="noopener noreferrer">WSA 官方文档</a>。</p>
-</div>
-<h2>Windows 终端</h2>
-<p>Windows 终端是一个新式主机应用程序，它面向你喜爱的命令行 shell，如命令提示符、PowerShell 和 bash（通过适用于 Linux 的 Windows 子系统 (WSL)）。 它的主要功能包括多个选项卡、窗格、Unicode 和 UTF-8 字符支持、GPU 加速文本呈现引擎，你还可用它来创建你自己的主题并自定义文本、颜色、背景和快捷方式。</p>
-<p>更多内容详见 <a href="/blog_postgraduate/software/tool/terminal/" target="_blank">软件 → Windows 终端</a>。</p>
-<h2>PowerToys</h2>
-<p>Microsoft PowerToys 是一组实用工具，可帮助高级用户调整和简化其 Windows 体验，从而提高工作效率。</p>
-<p>更多内容详见 <a href="/blog_postgraduate/software/tool/power-toys.html" target="_blank">软件 → PowerToys</a>。</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>设计文章</title>
       <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/design/articles/</link>
       <guid>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/design/articles/</guid>
@@ -5857,60 +5923,6 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
 <figure><figcaption>引导操作模式示例</figcaption></figure>
 </li>
 </ol>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>标签导航设计</title>
-      <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/design/navigation/tabbar.html</link>
-      <guid>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/design/navigation/tabbar.html</guid>
-      <source url="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/rss.xml">标签导航设计</source>
-      <description>导航分很多类别，如标签导航、抽屉式导航、九宫格导航、混合组合导航、列表式导航、Tab 导航、平铺导航等等。 现在用到更多的导航其实是标签导航(tabbar)，它随处可见，相信目前大部分的 App 用的导航都是标签形式的。 理清产品框架 相信很多设计师在设计导航时，一上来就开始 YY 自己的导航要放什么，因为这个时候他已经被标签形式的导航洗脑了，认为自己...</description>
-      <category>设计</category>
-      <pubDate>Tue, 15 Sep 2020 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>导航分很多类别，如标签导航、抽屉式导航、九宫格导航、混合组合导航、列表式导航、Tab 导航、平铺导航等等。</p>
-<p>现在用到更多的导航其实是标签导航(tabbar)，它随处可见，相信目前大部分的 App 用的导航都是标签形式的。</p>
-<h2>理清产品框架</h2>
-<p>相信很多设计师在设计导航时，一上来就开始 YY 自己的导航要放什么，因为这个时候他已经被标签形式的导航洗脑了，认为自己的 App 就应该用标签导航。然后继续 YY 产品的功能，自己理出个最适合的，放上去就好了。</p>
-<p>其实不然。做好一个导航要考虑的问题其实非常多，还要考虑产品后期发展的延展性。必须定好整个产品的框架，把最核心的功能放在第一层页面，再根据产品的深度来设计导航的模式。</p>
-<h2>标签导航的优劣势</h2>
-<p>先来看个图:</p>
-<figure><figcaption>微信页面</figcaption></figure>
-<p>不要看上面的列表，就看下面的标签。是不是特别熟悉? 很多 App 都是用这类标签式导航来引导用户切换功能。</p>
-<h3>优势</h3>
-<ol>
-<li>
-<p>简单高效，操作方便</p>
-<p>下面的四个功能可以快速切换，用户在使用的过程中不会迷失方向，且简单清晰，层级明确。</p>
-</li>
-<li>
-<p>更好的用户体验</p>
-<p>试想一下，一般在使用 App 时，用户更多的会怎么使用手机? 双手还是单手呢? 肯定都有。所以单手使用手机的用户碰到的 App 是标签导航时，可以更方便的操作，不需要一定得使用另一只手。而某些导航如果不用两只手是没办法操作的。</p>
-</li>
-<li>
-<p>快速了解 App 主要功能</p>
-<p>一般来说，用户第一次使用产品，会关注这个 App 有什么功能，它能帮助自己完成什么任务。所以标签导航可以很好地帮助用户了解产品的主要功能，让用户看到的第一眼就知道自己能做什么。</p>
-</li>
-</ol>
-<h3>劣势</h3>
-<ol>
-<li>
-<p>功能不能过多</p>
-<p>有些产品功能过多，但是却又都是必要的，不能做删减。而一旦超过五个，就不适合用标签导航。因为标签导航不适合做滑动，所以功能多了可点击区域(热区)就变小了，操作上会有一定影响。</p>
-</li>
-<li>
-<p>占用一定屏幕尺寸</p>
-<p>标签导航占用了屏幕下方不少的位置。</p>
-<div class="hint-container info">
-<p class="hint-container-title">相关信息</p>
-<p>不过也正是因为顶部和底部的 navbar 与 tabbar 会占据太多的屏幕空间，所以现在屏幕尺寸普遍改为了 2:1 而不是原来的 16:9。</p>
-</div>
-</li>
-</ol>
-<h2>标签导航的延展</h2>
-<p>有的人会问，如果我的产品很想用标签导航，但是又超过了 5 个功能，那有办法解决么?</p>
-<figure><figcaption>知乎页面</figcaption></figure>
-<p>当然有，当您的主功能超过 5 个又一定要使用标签导航的话，那知乎的这个解决方案很适合您(最右边的功能是“更多”)。</p>
-<p>还有一类情况是:主功能是标签导航，次要功能也是标签导航。这些在资讯 APP 是很常见的，比如主功能是“新闻”，次要功能是顶部的“要闻”、“NBA”等等，如果在某个主功能中，次要功能很多，就可以使用这类方式来解决这个问题。</p>
 ]]></content:encoded>
     </item>
   </channel>
