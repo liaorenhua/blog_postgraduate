@@ -5,13 +5,14 @@
   <subtitle>博客承载思想，文字点燃激情.</subtitle>
   <icon>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/logo.png</icon>
   <rights>基于 MIT 协议，© 2025-至今 Leo</rights>
-  <updated>2025-02-16T05:37:20.550Z</updated>
+  <updated>2025-02-16T05:39:49.764Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/atom.xml"/>
   <link rel="alternate" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/"/>
-  <category term="课程-管理信息系统"/>
+  <category term="课程-项目管理概论"/>
   <category term="论文"/>
-  <category term="读研"/>
+  <category term="目录"/>
+  <category term="课程-管理信息系统"/>
   <category term="career"/>
   <category term="设计"/>
   <category term="硬件"/>
@@ -39,11 +40,10 @@
     <title type="text">项目管理概论(陆)</title>
     <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_PM_manage.html</id>
     <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_PM_manage.html"/>
-    <updated>2025-02-16T05:34:22.000Z</updated>
+    <updated>2025-02-16T05:36:56.000Z</updated>
     <summary type="html"><![CDATA[
 <blockquote>
 <p>2025年2月16日 第一节课<br>
-人工智能时代的企业信息管理<br>
 陆起涌 lqyong@hotmail.com<br>
 参考书： 《项目管理案例教程》 白思俊主编 2014年， 机械出版社</p>
 <p>本课能学到</p>
@@ -53,11 +53,11 @@
 作业 30%     10人 &lt; 课题团队 &lt; 15人  <br>
 个人期末考试 60%  4月12日考试;      <br>
 按照项目管理要求，组队完成某个课题，并且进行汇报。  <br></p>
-</blockquote>]]></summary>
+</blockquote>
+<h2>第一次课</h2>]]></summary>
     <content type="html"><![CDATA[
 <blockquote>
 <p>2025年2月16日 第一节课<br>
-人工智能时代的企业信息管理<br>
 陆起涌 lqyong@hotmail.com<br>
 参考书： 《项目管理案例教程》 白思俊主编 2014年， 机械出版社</p>
 <p>本课能学到</p>
@@ -70,7 +70,7 @@
 </blockquote>
 <h2>第一次课</h2>
 ]]></content>
-    <category term="课程-管理信息系统"/>
+    <category term="课程-项目管理概论"/>
     <published>2025-02-16T00:00:00.000Z</published>
   </entry>
   <entry>
@@ -122,10 +122,10 @@
     <published>2025-01-18T00:00:00.000Z</published>
   </entry>
   <entry>
-    <title type="text">读研</title>
+    <title type="text">目录</title>
     <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/</id>
     <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/"/>
-    <updated>2025-02-16T04:50:01.000Z</updated>
+    <updated>2025-02-16T05:35:42.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">介绍</p>
 <p>这里记录读研期间点滴。
@@ -142,7 +142,7 @@
 <li><a href=""><strong>相关链接</strong></a></li>
 </ul>
 ]]></content>
-    <category term="读研"/>
+    <category term="目录"/>
     <published>2025-01-18T00:00:00.000Z</published>
   </entry>
   <entry>
