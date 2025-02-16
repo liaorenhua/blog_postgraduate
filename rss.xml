@@ -6,13 +6,14 @@
     <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/</link>
     <description>博客承载思想，文字点燃激情.</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 16 Feb 2025 01:18:55 GMT</pubDate>
-    <lastBuildDate>Sun, 16 Feb 2025 01:18:55 GMT</lastBuildDate>
+    <pubDate>Sun, 16 Feb 2025 05:14:21 GMT</pubDate>
+    <lastBuildDate>Sun, 16 Feb 2025 05:14:21 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>基于 MIT 协议，© 2025-至今 Leo</copyright>
     <category>课程-管理信息系统</category>
     <category>论文</category>
+    <category>读研</category>
     <category>career</category>
     <category>设计</category>
     <category>硬件</category>
@@ -31,37 +32,28 @@
     <category>Vue</category>
     <category>JavaScript</category>
     <item>
-      <title>一</title>
-      <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/1.html</link>
-      <guid>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/1.html</guid>
-      <source url="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/rss.xml">一</source>
-      <description>一 2025年2月16日 第一节课 人工智能时代的企业信息管理 助教： 王梦迪， 24210500029@m.fudan.edu.cn 胡安安 huananbeijing@hotmail.com TEL: 65648723 要点 老师利用 gpt3.5-&amp;gt;4.0 和 DeepSeek 来提供介绍自己文案，从结果来看都不精准。 同时从之前提供的版本也不能...</description>
+      <title>项目管理概论(陆)</title>
+      <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_PM_manage.html</link>
+      <guid>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_PM_manage.html</guid>
+      <source url="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/rss.xml">项目管理概论(陆)</source>
+      <description>项目管理概论(陆) 2025年2月16日 第一节课 人工智能时代的企业信息管理 陆起涌 lqyong@hotmail.com 参考书： 本课能学到 要求： 时间: 12:30-15:30 到课率和表现 10% 人少点名 作业 30% 第三次课程... 个人期末考试 60% 4月12日考试 按照项目管理要求，组队完成某个课题，并且进行汇报。 第一次课</description>
       <category>课程-管理信息系统</category>
       <pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
 <p>2025年2月16日 第一节课<br>
 人工智能时代的企业信息管理<br>
-助教： 王梦迪， 24210500029@m.fudan.edu.cn
-胡安安 huananbeijing@hotmail.com TEL: 65648723</p>
+陆起涌 lqyong@hotmail.com<br>
+参考书：</p>
+<p>本课能学到</p>
+<p>要求：<br>
+时间: 12:30-15:30
+到课率和表现 10%  人少点名
+作业 30%  第三次课程...<br>
+个人期末考试 60%  4月12日考试
+按照项目管理要求，组队完成某个课题，并且进行汇报。</p>
 </blockquote>
-<h2>要点</h2>
-<p>老师利用 gpt3.5-&gt;4.0 和 DeepSeek 来提供介绍自己文案，从结果来看都不精准。  同时从之前提供的版本也不能算“信息”从而引出管理学如下三个概念。【居然花了一
-个小时-这个点差评】</p>
-<p>数据：数据是最基础的，它指的是未经处理或解释的事实或细节。数据可以是数字、文字、图像等形式，通常没有明确的意义或上下文。例如，一个温度计显示的“30”这个数字就是数据，
-它本身并不能告诉我们太多关于实际情况的信息。<br>
-信息：当数据被赋予了一定的背景或者经过组织、处理后，就变成了信息。信息能够回答诸如谁（Who）、何时（When）、何地（Where）、做了什么（What）等问题，提供了一些意义
-和理解的基础。比如，“北京今天的气温是30度”这句话包含了数据，并通过添加位置（北京）和时间（今天）等背景信息，使得这些数据具有了意义，成为了信息。<br>
-知识：知识是在信息的基础上进一步提炼出来的，涉及到理解和应用。知识不仅仅是知道一些事实或者数据，还包括如何使用这些信息来解决问题、做出决策或者创造新价值的能力。例如，
-了解到北京夏天的平均气温较高，因此选择合适的穿着或安排户外活动，这就体现了对信息的应用，即知识。
-简而言之，数据是原始材料，信息是对数据进行解释后的结果，而知识则是基于信息的理解与应用。三者的关系是一个递进的过程，从数据到信息再到知识，每一步都增加了更多的价值
-和理解深度。
-智慧：有前于经验的能力且准确</p>
-<p>数据-基础<br>
-信息-判断、决策<br>
-知识-经验、总结<br>
-智慧-规律、能力<br>
-务实的说：项目管理和物流管理过程中，信息的质量是核心。 学校能教的集中于： 信息</p>
+<h2>第一次课</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -99,12 +91,12 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>论文</title>
+      <title>读研</title>
       <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/</link>
       <guid>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/</guid>
-      <source url="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/rss.xml">论文</source>
+      <source url="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/rss.xml">读研</source>
       <description>介绍 这里记录读研期间点滴。 整理在博客中。</description>
-      <category>论文</category>
+      <category>读研</category>
       <pubDate>Sat, 18 Jan 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">介绍</p>
@@ -115,6 +107,50 @@
 <ul>
 <li><a href=""><strong>相关链接</strong></a></li>
 </ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>管理信息系统</title>
+      <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_IT_manage.html</link>
+      <guid>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_IT_manage.html</guid>
+      <source url="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/rss.xml">管理信息系统</source>
+      <description>管理信息系统 2025年2月16日 第一节课 人工智能时代的企业信息管理 助教： 王梦迪， 24210500029@m.fudan.edu.cn 胡安安 huananbeijing@hotmail.com TEL: 65648723 参考书：《管理信息系统》第七版 薛华成(南华,行为学派|北黄,系统学派)； 《管理信息系统》美国出，案例都是最新的 《信...</description>
+      <category>课程-管理信息系统</category>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<blockquote>
+<p>2025年2月16日 第一节课<br>
+人工智能时代的企业信息管理<br>
+助教： 王梦迪， 24210500029@m.fudan.edu.cn
+胡安安 huananbeijing@hotmail.com TEL: 65648723<br>
+参考书：《管理信息系统》第七版 薛华成(南华,行为学派|北黄,系统学派)； 《管理信息系统》美国出，案例都是最新的   《信息时代的管理信息系统》无电子版<br>
+乌托邦数字 数字思维 反脆弱<br>
+《第55次中国互联网络发展状态统计报告》 - 需要看，论文研究背景数据来源 等<br>
+《控制论与科学方法论》</p>
+<p>本课能学到</p>
+<ul>
+<li>了解管理信息系统体系中基础知识和分析框架： 管理、信息、系统</li>
+<li>理解现代信息技术、信息系统能力以及对现代企业产品与服务、管理及其经营模式创新影响</li>
+</ul>
+<p>要求：  （一周2个H）
+到课率和表现 10%<br>
+课后作业一次 45%  第三次课程...   考核方式见手机截图
+个人期末考试 45%  4月12日考试 特定场景给出自己思考和解决方案  半开卷(一张A4纸张) 20道题</p>
+</blockquote>
+<h2>第一次课</h2>
+<p>老师利用 gpt3.5-&gt;4.0 和 DeepSeek 来提供介绍自己文案，从结果来看都不精准。  同时从之前提供的版本也不能算“信息”从而引出管理学如下概念。【居然花了一
+个小时-不想给好评】</p>
+<p><strong>数据：</strong> 数据是最基础的，它指的是未经处理或解释的事实或细节。数据可以是数字、文字、图像等形式，通常没有明确的意义或上下文。例如，一个温度计显示的“30”这个数字就是数据，
+它本身并不能告诉我们太多关于实际情况的信息。<br>
+信息：当数据被赋予了一定的背景或者经过组织、处理后，就变成了信息。信息能够回答诸如谁（Who）、何时（When）、何地（Where）、做了什么（What）等问题，提供了一些意义
+和理解的基础。比如，“北京今天的气温是30度”这句话包含了数据，并通过添加位置（北京）和时间（今天）等背景信息，使得这些数据具有了意义，成为了信息。<br>
+<strong>知识：</strong> 知识是在信息的基础上进一步提炼出来的，涉及到理解和应用。知识不仅仅是知道一些事实或者数据，还包括如何使用这些信息来解决问题、做出决策或者创造新价值的能力。例如，
+了解到北京夏天的平均气温较高，因此选择合适的穿着或安排户外活动，这就体现了对信息的应用，即知识。
+简而言之，数据是原始材料，信息是对数据进行解释后的结果，而知识则是基于信息的理解与应用。三者的关系是一个递进的过程，从数据到信息再到知识，每一步都增加了更多的价值
+和理解深度。
+<strong>智慧：</strong> 有前于经验的能力且准确</p>
+<p>| <strong>概念</strong>   | <strong>大白话</strong>       |<br>
+|</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -5864,79 +5900,6 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
 <figure><figcaption>知乎页面</figcaption></figure>
 <p>当然有，当您的主功能超过 5 个又一定要使用标签导航的话，那知乎的这个解决方案很适合您(最右边的功能是“更多”)。</p>
 <p>还有一类情况是:主功能是标签导航，次要功能也是标签导航。这些在资讯 APP 是很常见的，比如主功能是“新闻”，次要功能是顶部的“要闻”、“NBA”等等，如果在某个主功能中，次要功能很多，就可以使用这类方式来解决这个问题。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Bash 教程</title>
-      <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/linux/bash/</link>
-      <guid>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/linux/bash/</guid>
-      <source url="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/rss.xml">Bash 教程</source>
-      <description>目录</description>
-      <category>Linux</category>
-      <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>目录</h2>
-<ul>
-<li>
-<p><a href="/blog_postgraduate/linux/bash/intro.html" target="_blank">简介</a></p>
-</li>
-<li>
-<p><a href="/blog_postgraduate/linux/bash/grammar.html" target="_blank">基本语法</a></p>
-</li>
-<li>
-<p><a href="/blog_postgraduate/linux/bash/expansion.html" target="_blank">模式扩展</a></p>
-</li>
-<li>
-<p><a href="/blog_postgraduate/linux/bash/quotation.html" target="_blank">引号和转义</a></p>
-</li>
-<li>
-<p><a href="/blog_postgraduate/linux/bash/variable.html" target="_blank">变量</a></p>
-</li>
-<li>
-<p><a href="/blog_postgraduate/linux/bash/string.html" target="_blank">字符串操作</a></p>
-</li>
-<li>
-<p><a href="/blog_postgraduate/linux/bash/arithmetic.html" target="_blank">算术运算</a></p>
-</li>
-<li>
-<p><a href="/blog_postgraduate/linux/bash/readline.html" target="_blank">行操作</a></p>
-</li>
-<li>
-<p><a href="/blog_postgraduate/linux/bash/stack.html" target="_blank">目录堆栈</a></p>
-</li>
-<li>
-<p><a href="/blog_postgraduate/linux/bash/script.html" target="_blank">脚本入门</a></p>
-</li>
-<li>
-<p><a href="/blog_postgraduate/linux/bash/read.html" target="_blank">read 命令</a></p>
-</li>
-<li>
-<p><a href="/blog_postgraduate/linux/bash/condition.html" target="_blank">条件判断</a></p>
-</li>
-<li>
-<p><a href="/blog_postgraduate/linux/bash/loop.html" target="_blank">循环</a></p>
-</li>
-<li>
-<p><a href="/blog_postgraduate/linux/bash/function.html" target="_blank">函数</a></p>
-</li>
-<li>
-<p><a href="/blog_postgraduate/linux/bash/array.html" target="_blank">数组</a></p>
-</li>
-<li>
-<p><a href="/blog_postgraduate/linux/bash/set.html" target="_blank">set 命令</a></p>
-</li>
-<li>
-<p><a href="/blog_postgraduate/linux/bash/debug.html" target="_blank">脚本除错</a></p>
-</li>
-<li>
-<p><a href="/blog_postgraduate/linux/bash/mktemp.html" target="_blank">mktemp 命令，trap 命令</a></p>
-</li>
-<li>
-<p><a href="/blog_postgraduate/linux/bash/startup.html" target="_blank">启动环境</a></p>
-</li>
-<li>
-<p><a href="/blog_postgraduate/linux/bash/prompt.html" target="_blank">命令提示符</a></p>
-</li>
-</ul>
 ]]></content:encoded>
     </item>
   </channel>
