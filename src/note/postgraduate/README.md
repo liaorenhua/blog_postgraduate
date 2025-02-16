@@ -1,10 +1,10 @@
 ---
 date: 2025-01-18
-title: 论文
+title: 读研
 icon: form
-category: 论文
+category: 读研
 tag:
-  - 论文
+  - 论文|课程
 ---
 
 ::: tip 介绍

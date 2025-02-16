@@ -3,14 +3,14 @@ import { arraySidebar } from "vuepress-theme-hope";
 export const note = arraySidebar([
   "",
   {
-    text: "论文",
+    text: "课程/论文",
     icon: "like",
     prefix: "postgraduate/",
     collapsible: true,
     children: [
       "",
-      "1",
-      "2",
+      "course_IT_manage",
+      "course_PM_manage",
       "3",
       "note",
     ],
