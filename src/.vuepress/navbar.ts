@@ -25,7 +25,7 @@ export const zhNavbarConfig = navbar([
   {
     text: "读书",
     icon: "note",
-    prefix: "/note/",
+    prefix: "/note/", // 这里通过 note.ts 得到左边菜单栏
     children: [
       { text: "随笔", link: "", icon: "note", activeMatch: "^/note/$" },
       {
