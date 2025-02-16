@@ -11,7 +11,7 @@ export const note = arraySidebar([
       "",
       "course_IT_manage",
       "course_PM_manage",
-      "3",
+      "paper",
       "note",
     ],
   },

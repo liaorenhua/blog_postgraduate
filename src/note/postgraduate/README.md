@@ -1,8 +1,8 @@
 ---
 date: 2025-01-18
-title: 目录
+title: 读书
 icon: form
-category: 目录
+category: 读书
 tag:
   - 论文|课程目录
 ---
@@ -15,5 +15,9 @@ tag:
 :::
 
 <!-- more -->
+
+- [课程-信息系统管理](course_IT_manage.md)
+- [课程-项目管理概论](course_PM_manage.md)
+- [论文](paper.md)
 
 - [**相关链接**]()
