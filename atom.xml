@@ -5,7 +5,7 @@
   <subtitle>博客承载思想，文字点燃激情.</subtitle>
   <icon>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/logo.png</icon>
   <rights>基于 MIT 协议，© 2025-至今 Leo</rights>
-  <updated>2025-03-09T06:21:05.146Z</updated>
+  <updated>2025-03-09T09:55:46.777Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/atom.xml"/>
   <link rel="alternate" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/"/>
@@ -40,7 +40,7 @@
     <title type="text">课程-企业投融资</title>
     <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_enterprise_investment_and_financing_manage.html</id>
     <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_enterprise_investment_and_financing_manage.html"/>
-    <updated>2025-03-02T12:39:17.000Z</updated>
+    <updated>2025-03-09T09:52:48.000Z</updated>
     <summary type="html"><![CDATA[
 <blockquote>
 <p>2025年2月16日 第一节课<br>
@@ -117,6 +117,22 @@ ST股票是指在中国A股市场中，由于财务状况或其他异常情况�
 </blockquote>
 <p>罗氏经验：<br>
 ，最少抛出去50%</p>
+<h2>第四次课</h2>
+<blockquote>
+<p>2025年3月9日 15:40 -&gt; 18:40</p>
+</blockquote>
+<p>技术和信息分析</p>
+<p>技术分析股票</p>
+<ul>
+<li>下降三角形且被击穿，大概率得继续跌(07年平安股票击穿后连续跌停)；但是，突破点离三角形顶点太近可能是失败的三角形（历史上存在该股票记录）  ，</li>
+<li>矩阵(反转) 上证指数2010年7月28到10月8日的矩形整理<br>
+典型的 先上下矩形，然后突破上涨也有下跌的</li>
+<li>旗行 (类似旗帜图形) 旗帜左右图形摇摆后，上升或者下降<br>
+罗牛山于2010年1月20日历史7个交易日，振幅15%左右</li>
+<li>菱形</li>
+<li>头肩顶</li>
+<li>头肩底</li>
+</ul>
 ]]></content>
     <category term="课程-管理信息系统"/>
     <published>2025-02-16T00:00:00.000Z</published>
