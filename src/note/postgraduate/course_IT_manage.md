@@ -152,4 +152,18 @@ tag:
 
 
 ## 第四次课
-管理信息系
+管理信息系   
+1、案例作业(第七次上课前) 占比成绩的 45%;   
+已经上传 eLearning，第七次前发到助教邮箱。      
+
+2、新词   
+瞪羚企业：https://baijiahao.baidu.com/s?id=1825764190708779349&wfr=spider&for=pc      
+独角兽： 成立10年内，估值10亿上   
+具身智能：https://baike.baidu.com/item/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD/63286570 
+投资于人：目的培养瞪羚企业      
+
+3、新应用  
+manus，可以利用该工具写“材料”         
+
+上海老人比例：
+![img.png](assets/rateOfSH.png)
