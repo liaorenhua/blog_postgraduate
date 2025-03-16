@@ -157,15 +157,15 @@ tag:
 已经上传 eLearning，第七次前发到助教邮箱。      
 
 2、新词   
-瞪羚企业：https://baijiahao.baidu.com/s?id=1825764190708779349&wfr=spider&for=pc      
+瞪羚企业：https://baijiahao.baidu.com/s?id=1825764190708779349&wfr=spider&for=pc       
 独角兽： 成立10年内，估值10亿上   
-具身智能：https://baike.baidu.com/item/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD/63286570 
+具身智能：https://baike.baidu.com/item/%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD/63286570   
 投资于人：目的培养瞪羚企业      
 
 3、新应用  
 manus，可以利用该工具写“材料”         
 
-上海老人比例：
+上海老人比例：  
 ![img.png](assets/rateOfSH.png)
 
 4、变革   
@@ -197,7 +197,7 @@ tore、iTunes、iCloud等服务——为用户提供了无可比拟的价值体�
 最大通信网络的带宽每8个月翻一番。这一规律由科技分析师和作家乔治·吉尔德（George Gilder）提出。乔治.吉尔德提出
 - 迈特卡尔夫定律： 网络价值同网络用户数量的平方成正比，即N个连接可以创造N*N的效益，正比是企业盈利能力。
 
-# 第五次课程
+## 第五次课程
 > 2025年3月16日
 
 互联网常见定律  
