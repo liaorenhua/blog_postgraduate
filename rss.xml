@@ -6,8 +6,8 @@
     <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/</link>
     <description>博客承载思想，文字点燃激情.</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 23 Mar 2025 08:13:14 GMT</pubDate>
-    <lastBuildDate>Sun, 23 Mar 2025 08:13:14 GMT</lastBuildDate>
+    <pubDate>Sun, 23 Mar 2025 08:57:44 GMT</pubDate>
+    <lastBuildDate>Sun, 23 Mar 2025 08:57:44 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>基于 MIT 协议，© 2025-至今 Leo</copyright>
@@ -124,6 +124,7 @@ ST股票是指在中国A股市场中，由于财务状况或其他异常情况�
 </blockquote>
 <p>市盈率 = (每股价格 * 总股本) / [每股净利(净利润/总股本) * 总股本] = 总市值 / 净利润<br>
 例如： 市盈率为30，按照目前情况，30年可以回本；同理10，则10年回本。</p>
+<p>商誉(挂在无形资产科目下)如果大于公司公司净资产，一般不考虑用于投资</p>
 ]]></content:encoded>
     </item>
     <item>
