@@ -109,3 +109,9 @@ tag:
 1.2 股市上涨 -> 股市下跌 -> 继续下跌  
 
 MV = PY
+
+美林投资钟与大众资产配置图  
+![meilin.jpg](assets%2Fmeilin.jpg)
+
+
+
