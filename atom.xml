@@ -5,7 +5,7 @@
   <subtitle>博客承载思想，文字点燃激情.</subtitle>
   <icon>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/logo.png</icon>
   <rights>基于 MIT 协议，© 2025-至今 Leo</rights>
-  <updated>2025-03-30T06:35:24.005Z</updated>
+  <updated>2025-03-30T10:31:47.220Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/atom.xml"/>
   <link rel="alternate" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/"/>
@@ -40,7 +40,7 @@
     <title type="text">课程-企业投融资</title>
     <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_enterprise_investment_and_financing_manage.html</id>
     <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_enterprise_investment_and_financing_manage.html"/>
-    <updated>2025-03-23T10:28:37.000Z</updated>
+    <updated>2025-03-30T10:28:33.000Z</updated>
     <summary type="html"><![CDATA[
 <blockquote>
 <p>2025年2月16日 第一节课<br>
@@ -157,6 +157,19 @@ ST股票是指在中国A股市场中，由于财务状况或其他异常情况�
 <h3>价值估值模型</h3>
 <p>看谁有定价权，他是如何看的； 除了：估计常规估算办法<br>
 模型都是基于其他因素固定（往往会准?）</p>
+<h2>第七次课</h2>
+<blockquote>
+<p>2025年3月30日</p>
+</blockquote>
+<p>宏观经济</p>
+<ol>
+<li>通胀无牛市<br>
+1.1 通胀 -&gt;  紧缩货币政策 -&gt; 控制通胀 -&gt; GDP下行<br>
+1.2 股市上涨 -&gt; 股市下跌 -&gt; 继续下跌</li>
+</ol>
+<p>MV = PY</p>
+<p>美林投资钟与大众资产配置图<br>
+</p>
 ]]></content>
     <category term="课程-管理信息系统"/>
     <published>2025-02-16T00:00:00.000Z</published>
