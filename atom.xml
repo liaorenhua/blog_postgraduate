@@ -5,7 +5,7 @@
   <subtitle>博客承载思想，文字点燃激情.</subtitle>
   <icon>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/logo.png</icon>
   <rights>基于 MIT 协议，© 2025-至今 Leo</rights>
-  <updated>2025-03-23T10:25:18.328Z</updated>
+  <updated>2025-03-30T04:31:15.167Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/atom.xml"/>
   <link rel="alternate" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/"/>
@@ -40,7 +40,7 @@
     <title type="text">课程-企业投融资</title>
     <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_enterprise_investment_and_financing_manage.html</id>
     <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_enterprise_investment_and_financing_manage.html"/>
-    <updated>2025-03-23T10:22:12.000Z</updated>
+    <updated>2025-03-23T10:28:37.000Z</updated>
     <summary type="html"><![CDATA[
 <blockquote>
 <p>2025年2月16日 第一节课<br>
@@ -154,7 +154,9 @@ ST股票是指在中国A股市场中，由于财务状况或其他异常情况�
 例如： 市盈率为30，按照目前情况，30年可以回本；同理10，则10年回本。</p>
 <p>商誉(挂在无形资产科目下)如果大于公司公司净资产，一般不考虑用于投资</p>
 <p>主板70倍，创业板150倍可能是泡沫顶点 (由历史规律总结而出)</p>
-<p>看谁有定价权，他是如何看的； 除了：估计常规估算办法</p>
+<h3>价值估值模型</h3>
+<p>看谁有定价权，他是如何看的； 除了：估计常规估算办法<br>
+模型都是基于其他因素固定（往往会准?）</p>
 ]]></content>
     <category term="课程-管理信息系统"/>
     <published>2025-02-16T00:00:00.000Z</published>
@@ -337,7 +339,7 @@ ST股票是指在中国A股市场中，由于财务状况或其他异常情况�
     <title type="text">课程-管理信息系统</title>
     <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_IT_manage.html</id>
     <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_IT_manage.html"/>
-    <updated>2025-03-23T02:43:22.000Z</updated>
+    <updated>2025-03-30T04:27:47.000Z</updated>
     <summary type="html"><![CDATA[
 <blockquote>
 <p>2025年2月16日 第一节课<br>

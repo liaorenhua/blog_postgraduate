@@ -6,8 +6,8 @@
     <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/</link>
     <description>博客承载思想，文字点燃激情.</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 23 Mar 2025 10:25:18 GMT</pubDate>
-    <lastBuildDate>Sun, 23 Mar 2025 10:25:18 GMT</lastBuildDate>
+    <pubDate>Sun, 30 Mar 2025 04:31:15 GMT</pubDate>
+    <lastBuildDate>Sun, 30 Mar 2025 04:31:15 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>基于 MIT 协议，© 2025-至今 Leo</copyright>
@@ -126,7 +126,9 @@ ST股票是指在中国A股市场中，由于财务状况或其他异常情况�
 例如： 市盈率为30，按照目前情况，30年可以回本；同理10，则10年回本。</p>
 <p>商誉(挂在无形资产科目下)如果大于公司公司净资产，一般不考虑用于投资</p>
 <p>主板70倍，创业板150倍可能是泡沫顶点 (由历史规律总结而出)</p>
-<p>看谁有定价权，他是如何看的； 除了：估计常规估算办法</p>
+<h3>价值估值模型</h3>
+<p>看谁有定价权，他是如何看的； 除了：估计常规估算办法<br>
+模型都是基于其他因素固定（往往会准?）</p>
 ]]></content:encoded>
     </item>
     <item>
