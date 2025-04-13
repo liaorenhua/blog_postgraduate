@@ -13,6 +13,7 @@ export const note = arraySidebar([
       "course_PM_manage",
       "course_enterprise_investment_and_financing_manage",
       "course_quality_risk_manage",
+      "course_human_resource_manage",
       "paper",
       "note",
     ],
