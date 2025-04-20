@@ -38,6 +38,11 @@ tag:
 2. 激发潜能(团队，人员)   
 一般萝卜 + 大棒   
 
+## 第二次课
+功能定位   
+
+![img.png](assets/functionPart.png)
+
 
 
 
