@@ -36,6 +36,14 @@ tag:
 3、处理速度快。从复杂数据中获取高价值信息。   
 4、价值密度低。   
 
+计算方式：         
+1、云计算  
+2、分布式系统（核心map和reduce）   
+![img_1.png](assets/big_map_reduce.png)
+
+3、数据挖掘   
+借助算法从海量信息中挖掘有价值信息活动   
+![img.png](assets/filter.jpg)
 
 ## 第二次课 
 
