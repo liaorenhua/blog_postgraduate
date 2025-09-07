@@ -7,6 +7,32 @@
   "favicon": "https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/logo.png",
   "items": [
     {
+      "title": "课程-大数据决策分析与决策",
+      "url": "https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_data_analysis.html",
+      "id": "https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_data_analysis.html",
+      "summary": "课程-大数据决策分析与决策 2025年9月7日 第一节课 大数据分析和决策 助教： 陈涛 本课能学到 了解金融大数据的基本概念和相关理论知识 金融大数据知识简介 金融大数据理论基础 python基础 金融场景下的python python金融分析 深度学习大数据分析 经典案例分析和实践 要求： 不考试 考勤、课堂表现(讨论和发言) 10% 作业 20 ...",
+      "content_html": "\n<blockquote>\n<p>2025年9月7日 第一节课<br>\n大数据分析和决策<br>\n助教：\n陈涛</p>\n<p>本课能学到</p>\n<ul>\n<li>了解金融大数据的基本概念和相关理论知识</li>\n<li>金融大数据知识简介</li>\n<li>金融大数据理论基础</li>\n<li>python基础</li>\n<li>金融场景下的python</li>\n<li>python金融分析</li>\n<li>深度学习大数据分析</li>\n<li>经典案例分析和实践\n要求： 不考试  <br>\n考勤、课堂表现(讨论和发言) 10%   <br>\n作业 20    <br>\n课程报告 70%\n<br></li>\n</ul>\n</blockquote>\n<h2>第一次课</h2>\n<p>2025年9月7日</p>\n<h2>第二次课</h2>\n<h2>第三次课</h2>\n",
+      "date_published": "2025-09-07T00:00:00.000Z",
+      "date_modified": "2025-09-07T05:33:42.000Z",
+      "authors": [],
+      "tags": [
+        "课程-大数据决策分析与决策"
+      ]
+    },
+    {
+      "title": "课程-专业外语",
+      "url": "https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_special_english.html",
+      "id": "https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_special_english.html",
+      "summary": "课程-专业外语 2025年9月7日 第一节课 专业外语 助教： 无 本课能学到 专业外语的基本概念 专业外语的分类 专业外语的学习方法 要求： 考勤 课堂表现(讨论和发言) 课程报告 第一次课 2025年9月7日 第二次课 第三次课",
+      "content_html": "\n<blockquote>\n<p>2025年9月7日 第一节课<br>\n专业外语<br>\n助教： 无</p>\n<p>本课能学到</p>\n<ul>\n<li>专业外语的基本概念</li>\n<li>专业外语的分类</li>\n<li>专业外语的学习方法</li>\n</ul>\n<p>要求：   <br>\n考勤   <br>\n课堂表现(讨论和发言)   <br>\n课程报告    <br>\n<br></p>\n</blockquote>\n<h2>第一次课</h2>\n<p>2025年9月7日</p>\n<h2>第二次课</h2>\n<h2>第三次课</h2>\n",
+      "date_published": "2025-09-07T00:00:00.000Z",
+      "date_modified": "2025-09-07T04:32:07.000Z",
+      "authors": [],
+      "tags": [
+        "课程-大数据决策分析与决策"
+      ]
+    },
+    {
       "title": "第一次沟通",
       "url": "https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/paperCommunicatioRecords.html",
       "id": "https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/paperCommunicatioRecords.html",
@@ -102,9 +128,9 @@
       "url": "https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/",
       "id": "https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/",
       "summary": "介绍 这里记录读研期间点滴。 整理在博客中。",
-      "content_html": "<div class=\"hint-container tip\">\n<p class=\"hint-container-title\">介绍</p>\n<p>这里记录读研期间点滴。\n整理在博客中。</p>\n</div>\n<!-- more -->\n<ul>\n<li>\n<p><a href=\"/blog_postgraduate/note/postgraduate/course_IT_manage.html\" target=\"_blank\">课程-信息系统管理</a></p>\n</li>\n<li>\n<p><a href=\"/blog_postgraduate/note/postgraduate/course_PM_manage.html\" target=\"_blank\">课程-项目管理概论</a></p>\n</li>\n<li>\n<p><a href=\"/blog_postgraduate/note/postgraduate/course_enterprise_investment_and_financing_manage.html\" target=\"_blank\">课程-企业融投资</a></p>\n</li>\n<li>\n<p><a href=\"/blog_postgraduate/note/postgraduate/course_quality_risk_manage.html\" target=\"_blank\">课程-项目质量和风险管理</a></p>\n</li>\n<li>\n<p><a href=\"/blog_postgraduate/note/postgraduate/course_human_resource_manage.html\" target=\"_blank\">课程-人力资源</a></p>\n</li>\n<li>\n<p><a href=\"/blog_postgraduate/note/postgraduate/course_engineering_ethics_and_research_methods.html\" target=\"_blank\">课程-工程伦理和研究方法</a></p>\n</li>\n<li>\n<p><a href=\"/blog_postgraduate/note/postgraduate/paper.html\" target=\"_blank\">论文</a></p>\n</li>\n<li>\n<p><a href=\"\"><strong>相关链接</strong></a></p>\n</li>\n</ul>\n",
+      "content_html": "<div class=\"hint-container tip\">\n<p class=\"hint-container-title\">介绍</p>\n<p>这里记录读研期间点滴。\n整理在博客中。</p>\n</div>\n<!-- more -->\n<ul>\n<li>\n<p><a href=\"/blog_postgraduate/note/postgraduate/course_IT_manage.html\" target=\"_blank\">课程-信息系统管理</a></p>\n</li>\n<li>\n<p><a href=\"/blog_postgraduate/note/postgraduate/course_PM_manage.html\" target=\"_blank\">课程-项目管理概论</a></p>\n</li>\n<li>\n<p><a href=\"/blog_postgraduate/note/postgraduate/course_enterprise_investment_and_financing_manage.html\" target=\"_blank\">课程-企业融投资</a></p>\n</li>\n<li>\n<p><a href=\"/blog_postgraduate/note/postgraduate/course_quality_risk_manage.html\" target=\"_blank\">课程-项目质量和风险管理</a></p>\n</li>\n<li>\n<p><a href=\"/blog_postgraduate/note/postgraduate/course_human_resource_manage.html\" target=\"_blank\">课程-人力资源</a></p>\n</li>\n<li>\n<p><a href=\"/blog_postgraduate/note/postgraduate/course_engineering_ethics_and_research_methods.html\" target=\"_blank\">课程-工程伦理和研究方法</a></p>\n</li>\n<li>\n<p><a href=\"/blog_postgraduate/note/postgraduate/course_data_analysis.html\" target=\"_blank\">课程-大数据决策分析与决策</a></p>\n</li>\n<li>\n<p><a href=\"/blog_postgraduate/note/postgraduate/course_special_english.html\" target=\"_blank\">课程-专业外语</a></p>\n</li>\n<li>\n<p><a href=\"/blog_postgraduate/note/postgraduate/paper.html\" target=\"_blank\">论文</a></p>\n</li>\n<li>\n<p><a href=\"\"><strong>相关链接</strong></a></p>\n</li>\n</ul>\n",
       "date_published": "2025-01-18T00:00:00.000Z",
-      "date_modified": "2025-09-07T00:50:20.000Z",
+      "date_modified": "2025-09-07T04:32:07.000Z",
       "authors": [],
       "tags": [
         "读书"
@@ -128,9 +154,9 @@
       "url": "https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_engineering_ethics_and_research_methods.html",
       "id": "https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_engineering_ethics_and_research_methods.html",
       "summary": "课程-工程伦理与研究方法 2025年9月7日 第一节课 工程伦理和研究方法 助教： 无 本课能学到 相应“四个面向”的号召主动服务国家 的要求 工程伦理的基本概念 工程伦理的基本原则 工程伦理的法律规范 要求： 考勤 15% 课堂表现(讨论和发言) 20% 课程报告 25% 期末展示(讨论小组口头报告,小组以不超过10人) 40% 第一次课 2025年...",
-      "content_html": "\n<blockquote>\n<p>2025年9月7日 第一节课<br>\n工程伦理和研究方法<br>\n助教： 无</p>\n<p>本课能学到</p>\n<ul>\n<li>相应“四个面向”的号召主动服务国家 的要求</li>\n<li>工程伦理的基本概念</li>\n<li>工程伦理的基本原则</li>\n<li>工程伦理的法律规范</li>\n</ul>\n<p>要求：   <br>\n考勤 15%   <br>\n课堂表现(讨论和发言) 20%  <br>\n课程报告 25%   <br>\n期末展示(讨论小组口头报告,小组以不超过10人) 40% <br></p>\n</blockquote>\n<h2>第一次课</h2>\n<p>2025年9月7日</p>\n<h2>第二次课</h2>\n<h2>第三次课</h2>\n",
+      "content_html": "\n<blockquote>\n<p>2025年9月7日 第一节课<br>\n工程伦理和研究方法<br>\n助教： 无</p>\n<p>本课能学到</p>\n<ul>\n<li>相应“四个面向”的号召主动服务国家 的要求</li>\n<li>工程伦理的基本概念</li>\n<li>工程伦理的基本原则</li>\n<li>工程伦理的法律规范</li>\n</ul>\n<p>要求：   <br>\n考勤 15%   <br>\n课堂表现(讨论和发言) 20%  <br>\n课程报告 25%   <br>\n期末展示(讨论小组口头报告,小组以不超过10人) 40% <br></p>\n</blockquote>\n<h2>第一次课</h2>\n<p>2025年9月7日<br>\n介绍多个“捏造”和“篡改”，学术不端后果严重（个人、单位、国家）<br>\n介绍多个“剽窃”和“抄袭”，学术不端后果严重（个人、单位、国家）</p>\n<p>去除本人已发表文献复制比不超过10%，且个别章节不超过20%，进入正常学位申请流程<br>\n去除本人已经发表文献复制比超20%，取消本次学位申请资格<br>\n去除本人已经发表文献复制比超30%，取消本学籍内学位申请资格，导师暂停招生资格2年</p>\n<p>工程管理和工商管理区别之一：  工程管理论文需要有验证</p>\n<h2>第二次课</h2>\n<h2>第三次课</h2>\n",
       "date_published": "2025-09-07T00:00:00.000Z",
-      "date_modified": "2025-09-07T01:13:41.000Z",
+      "date_modified": "2025-09-07T04:32:07.000Z",
       "authors": [],
       "tags": [
         "课程-工程伦理与研究方法"
@@ -1269,32 +1295,6 @@
       "summary": "文本框的出现几乎可以追溯到可视化交互诞生的源头，是一个再经典不过的「鼻祖」控件了。我们每天都在和文本框打交道，不论您是产品设计者还是用户。 文本框的拆解 文本框(Text Fields)根据 Material Design 指导规范，被拆解为七个部分。分别是: 文本框的拆解文本框的拆解 容器(Container) 前导图标(Leading icon) ...",
       "content_html": "<p>文本框的出现几乎可以追溯到可视化交互诞生的源头，是一个再经典不过的「鼻祖」控件了。我们每天都在和文本框打交道，不论您是产品设计者还是用户。</p>\n<h2>文本框的拆解</h2>\n<p>文本框(Text Fields)根据 Material Design 指导规范，被拆解为七个部分。分别是:</p>\n<figure><figcaption>文本框的拆解</figcaption></figure>\n<ul>\n<li>容器(Container)</li>\n<li>前导图标(Leading icon)</li>\n<li>标签文本(Label text)</li>\n<li>输入文本(Input text)</li>\n<li>尾随图标(Trailing icon)</li>\n<li>激活指示器(Activation indicator)</li>\n<li>帮助文本(Helper text)</li>\n</ul>\n<p>当然，MD 为我们展示的是已经经过其团队长期摸索之后，基于其平台规范下的标准样式。想要探索文本框的交互演变，我们还是要回溯到文本框最初的模样。</p>\n<figure><figcaption>文本框基础样式</figcaption></figure>\n<p>这就是一个文本框最基础的样式了， 一个标签文本+容器，已经基本可以确保向用户传递文本框最直观的信息。</p>\n<p>但如今的文本框已经演变出了形形色色的样式和交互形式，究竟 MD 的文本框是如何演变到今天这番样子?</p>\n<h2>基础的文本框布局方式</h2>\n<p>激励设计师不停探索文本框新的交互形式的根本原因之一，一定包含总让人头疼的排版问题。在解决了基本视觉问题之后，才是思考如何设计文本框来 提升用户的填写和使用效率。</p>\n<p>例如前面我们所看到的最基础的文本框样式，如果简单地进行单列布局，自然而然会出现让众多设计师纠结的一个问题: 标签文本究竟应该如何对齐?</p>\n<figure><figcaption>文本框对齐</figcaption></figure>\n<p>如果标签文本采用右对齐，标签文本的长短问题容易导致左侧的视觉隐形边界错乱，用户的规律眼动容易被打乱；</p>\n<p>如果标签文本采用左对齐，文本的长短问题又会导致部分较短标签文本与容器间距增大，让用户从左至右浏览的效率降低，并且看起来不够协调。</p>\n<p>于是乎文本框的布局方式有了进一步的演变: 标签文本与容器顶端对齐。</p>\n<figure><figcaption>文本框对齐</figcaption></figure>\n<p>顶端对齐的方式使得用户眼动变得十分规律，竖直向下浏览可以便捷地理解标签文本并进行填写，文本的长短问题不再成为干扰设计师进行排版的一个纠结点。</p>\n<p>但纵向布局的的方式只是把问题迁移到了另一个维度，那就是在表单数据量过多时，纵向布局会使得纵向空间耗损增加，用户需要不停地滑动页面才能实现表单的完整填写。</p>\n<p>所以，文本框的布局需要多方位评估标签文本长度、表单数据量等问题，才能对具体场景进行有效设计。</p>\n<h2>文本框的改良</h2>\n<p>当文本框横向布局或是纵向布局都很难解决具体场景问题的时候，更新颖的文本框交互形式就出现了。</p>\n<p>最初的演变形式是众多的应用开始采用前导图标来替代标签文本，使用图标可以有效地解决标签文本导致的排版错落问题。</p>\n<figure><figcaption>图标提示</figcaption></figure>\n<p>这种方案在轻量表单中较为常见，一般都是在表单内容少、用户对于场景的熟悉度较高的情景当中(例如登录场景)。</p>\n<p>因为每个用户对于图标的认知性存在差异，在生疏场景或表单内容过多的情况下，图标容易导致用户对文本框信息产生更多的认知成本。所以用图标来代替标签文本的普适性其实并不高。</p>\n<p>于是后来 iOS 人机交互规范 和 MD 规范 都给设计师提出了一条指导建议: 当占位符字段中不包含必要内容时，可以合理地使用占位符来承载标签文本。</p>\n<p>例如 iOS 通讯录新增联系人，就采用了占位符承载标签文本的方式。</p>\n<figure><figcaption>iOS 占位符提示</figcaption></figure>\n<p>但这种形式同样也存在一个弊端: 用户一旦输入内容之后，占位符就被内容文本填充覆盖了，有时用户会忘记所填写的信息是关于什么内容，必须要清空文本进行重新确认。对于表单内容繁多或重要内容需要谨慎填写的场景，这样的交互其实还是有一些不妥。</p>\n<p>于是乎，类似 MD 的指导规范下这样普适性较高的文本框形式就诞生了。采用占位符承载标签文本，并且在用户填写信息时，标签文本始终可见，由占位符转移到文本框顶部。</p>\n<figure><figcaption>MD 标签</figcaption></figure>\n<p>这一文本框交互形式的诞生，不论是对于排版空间的节省、遵循用户眼动习惯、微动效提升文本框趣味性等方面，都得到了一定提升。并且许多应用开始进行借鉴效仿。</p>\n<p>其实像以上这种巧用占位符的场景已经越来越常见了，占位符已经不再仅仅用来承载无用信息或提示性信息，也可以用于承载 默认值，帮助用户自动填充， 提高用户填写信息的效率(例如手游当中，创建账号时系统帮玩家默认填充一个可用昵称)。</p>\n<p>但填充默认值的手法也不仅仅局限于提升用户体验和填写效率，甚至也被运用到了一些商业场景中。</p>\n<p>例如淘宝、京东等电商平台，将商品名称作为占位符填充在搜索栏中，一方面给所推荐商品增加了曝光；另一方面，在用户直接点击搜索时，将会以当前占位符内容进行搜索，达到为所推荐商品引流的效果。</p>\n<figure><figcaption>引流</figcaption></figure>\n<h2>合理的反馈</h2>\n<p>合理的反馈机制对于提升用户填写文本框效率也起着重要的作用，MD 规范中的帮助文本不仅仅是告诉设计者可以用于指导用户该如何正确填写文本框信息，也为反馈提示提供了展示空间。</p>\n<p>MD 的反馈状态可以归纳为以下几种:</p>\n<figure><figcaption>反馈</figcaption></figure>\n<p>在这里我大概总结了一下文本框的负反馈提示信息，希望在您设计表单的时候，能够帮助到您对负反馈提示状态进行走查(可能不全，欢迎补充):</p>\n<ul>\n<li>内容是否为空(例: 必填项不能为空)</li>\n<li>二次确认内容是否一致(例: 确认密码与首次输入不一致)</li>\n<li>内容是否合规 (例: 昵称中包含不文明词语)</li>\n<li>内容格式是否合规(例: 昵称中不能包含特殊字符)</li>\n<li>内容长度是否合规(例: 手机号输入不足 11 位)</li>\n<li>内容的是否符合唯一性(例: 验证码输入错误)</li>\n</ul>\n<p>及时给予用户负反馈，可以让用户清晰地排查所发生的错误。但交互设计讲究「以人为本」，在某些场景中，当用户所填写的信息是合理的，及时地展示 正向反馈也是有必要的。</p>\n<p>例如，部分应用在用户创建账号的场景中，当用户输入账号信息后，系统将立刻检索用户的账号是否已存在在当前数据库中，避免用户忘记已创建过该账号而进行重复创建的徒劳步骤。</p>\n<figure><figcaption>反馈</figcaption></figure>\n<p>所以不要狭隘地认为 MD 所给到的帮助文本只能用于「批评」用户(负反馈)， 当用户做了正确的事时，也应该适当地激励用户，这也正符合了尼尔森可见性原则。</p>\n",
       "date_published": "2020-09-26T00:00:00.000Z",
-      "date_modified": "2025-01-07T02:58:54.000Z",
-      "authors": [],
-      "tags": [
-        "设计"
-      ]
-    },
-    {
-      "title": "导航设计教程",
-      "url": "https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/design/navigation/",
-      "id": "https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/design/navigation/",
-      "summary": "目录",
-      "content_html": "<h2>目录</h2>\n<ul>\n<li>\n<p><a href=\"/blog_postgraduate/design/navigation/intro.html\" target=\"_blank\">导航设计介绍</a></p>\n</li>\n<li>\n<p><a href=\"/blog_postgraduate/design/navigation/navbar.html\" target=\"_blank\">导航栏概述与设计方式</a></p>\n</li>\n<li>\n<p><a href=\"/blog_postgraduate/design/navigation/navbar-design.html\" target=\"_blank\">导航栏设计技巧</a></p>\n</li>\n<li>\n<p><a href=\"/blog_postgraduate/design/navigation/sidebar-navigate.html\" target=\"_blank\">侧边导航设计</a></p>\n</li>\n<li>\n<p><a href=\"/blog_postgraduate/design/navigation/tabbar.html\" target=\"_blank\">标签导航设计</a></p>\n</li>\n<li>\n<p><a href=\"/blog_postgraduate/design/navigation/tabbar-design.html\" target=\"_blank\">标签导航设计技巧</a></p>\n</li>\n</ul>\n",
-      "date_published": "2020-09-15T00:00:00.000Z",
-      "date_modified": "2025-01-07T02:58:54.000Z",
-      "authors": [],
-      "tags": [
-        "设计"
-      ]
-    },
-    {
-      "title": "导航设计介绍",
-      "url": "https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/design/navigation/intro.html",
-      "id": "https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/design/navigation/intro.html",
-      "summary": "其实网页或者 App 中的导航(Navigation)这个概念远不止我们熟悉的导航栏，而是一个更加广的交互概念: 引导用户和产品进行有效的交互，实现用户的目标。本文将详细地介绍界面的导航设计。 一个网页或 App 产品要想有很好的可用性(usability)，需要做好的最基本的一点是导航的设计或者说引导用户的设计。如果用户在使用一个网站或者 App 的...",
-      "content_html": "<p>其实网页或者 App 中的导航(Navigation)这个概念远不止我们熟悉的导航栏，而是一个更加广的交互概念: 引导用户和产品进行有效的交互，实现用户的目标。本文将详细地介绍界面的导航设计。</p>\n<p>一个网页或 App 产品要想有很好的可用性(usability)，需要做好的最基本的一点是导航的设计或者说引导用户的设计。如果用户在使用一个网站或者 App 的时候找不到自己的处在什么位置或者该怎么去到想要的页面，那么视觉效果再怎么有创意或者抓人眼球都无法弥补产品的缺陷。无论您的产品想满足用户什么需求，让用户知道产品当下的状态和每一步操作之后的结果是对用户最基本的尊重。</p>\n<h2>导航</h2>\n<p>首先，让我们弄清楚导航这个概念。最基本的含义就是在我们的现实世界中，当我们从一个地方到另一个地方，需要一些引导和指示。英文中 Navigation 这个词来源于拉丁文，原意就是: 操纵船只在海上航行。所以导航就是能够帮助我们到达目的地的行为。导航的其他意思都是建立在这个原意的基础上。</p>\n<p>所以回到 UX／UI 设计上，导航毫无疑问是可用性的一个要点。它可以定义为一系列引导用户成功地与产品互动并且实现他们目标的动作组合或者技巧组合。用户带着他们的期望和目标来使用您的网站或者产品，作为设计师的您需要给他们提供实现他们目标的最好操作流程。因此当您的导航设计得非常高效，用户体验能得到极大的提升。</p>\n<p>界面的导航(Navigation)是用户体验设计的核心之一。毫无疑问，如果您看不到路, 您就去不了您的目的地。用户现在正面对着越来越多的网站和 APP 产品。越来越多的选择会让用户期望这些产品具备符合他们使用习惯的导航设计。</p>\n<p>在您刚开始设计您的界面时，就要思考怎么设计一个有效的无缝衔接的导航。通过一些可交互的元素，比如按钮(buttons)，开关(switches)，链接(links)，标签(tabs)，条(bas)，菜单(menus)，区域(fields)，让用户在不同的界面之间进行切换。</p>\n<p>工作室的设计思路是，在界面设计的早期就全面地思考导航的设计，包括界面的布局，页面间如何切换，导航元素的放置和具体功能。并且通过低保真原型来进行验证，保证用户能清楚地理解所有重要的操作。如果跳过这一步，设计将有巨大的风险，其他事情有可能到头来都白干了。所以无论，对用户还是客户还是设计团队来讲，做好这最基础的部分是非常有好处的。</p>\n<h2>菜单(Menu)</h2>\n<p>菜单是我们最熟悉的具备导航功能的元素，它向用户展示了界面的所有重要选项。基本上，它可以是用动词命名的一系列指令，用户可以用它来指示系统做出动作，像保存，删除等；它也可以是一个用名词命名的目录，用来代表不同内容的集合。</p>\n<p>在界面设计中菜单可以放在不同的位置(侧边菜单，顶部菜单，底部菜单等)，拥有不同的交互和视觉形式(下拉菜单，上拉菜单，滑动菜单等)。要想设计好菜单的位置、交互和视觉形式，设计师需要经过全面的用户调查，包括目标用户的预期和要求、接受能力和使用情境。好的菜单设计能让用户更快地实现他们的目标，为用户体验打下坚实的基础。</p>\n<p>博客的界面设计，采用了侧边菜单以及目录的形式，文字直接说明内容，再加上图标来做为辅助的视觉说明。</p>\n<figure><figcaption>颜色的设计</figcaption></figure>\n<p>这个 UI 概念设计的例子很好的运用了颜色作为标记，这是一种很有效的导航技巧: 每个分类的背景色使用了和目录相同的的颜色，这样目录和内容有着非常强的相关性，用户能自然地将他们联系起来。</p>\n<h2>行为召唤(CTA)</h2>\n<p>CTA 是用户行为召唤的简称(call to action)。CTA 简单来说就是指设计师通过设计，刺激用户去做出一些行动。相应的，CTA 元素就是指那些能刺激用户做出行动的交互元素。典型的 CTA 元素是按钮，标签或者链接。</p>\n<p>不管在什么界面，CTA 元素都是高效的交互行为的核心，极大的关系到产品的可用性和导航有效性。如果 CTA 元素的设计不到位的话，用户会产生困惑并且得费劲地去尝试。产品的转化率和用户体验都会大打折扣。这就是为什么 CTA 元素特别值得注意。无论什么样的界面，它都必须是最瞩目的元素之一，用来直接地告诉用户怎么用这个产品。</p>\n<figure><figcaption>APP 案例</figcaption></figure>\n<p>一些 CTA 元素直接用图标形式而没有任何文字说明，但只适用于大家都熟知其含义的图标，比如听筒图标和信封图标。上图这个例子中，这个听筒图标就是这个界面中一个焦点，是一个典型的 CTA 元素，引导用户快速地实现他们的目标。不需要任何文字说明，用户也能懂点击这个图标的结果。</p>\n<p>但是，如果一个图标的含义不是那么明显或者可能造成误解，最好还是加上文字说明。</p>\n<figure><figcaption>网站着陆页</figcaption></figure>\n<p>上面这个例子是一个关于制作海鲜的网站的着陆页(Landing page)。页面的标题 let’s cook 还有食材照片是一个 CTA，但不是一个可交互的 CTA。可交互的 CTA 是下面这个红色按钮，用户点击这个按钮能看到更多关于不同主题和菜谱的信息。抓人眼球的颜色强调了页面的视觉层级关系，把用户的注意力拉到关键的交互区域中。</p>\n<h2>条(Bar)</h2>\n<p>条(Bar)指的是界面中一组用户可以点击的元素，用来快速与产品进行互动，或者还能让用户知道事件的进程。</p>\n<h3>标签条(Bar)</h3>\n<p>最基本的条是标签条(Tab bars)，常出现在 APP 界面的底部，让用户能在 APP 的不同模块间快速切换。</p>\n<figure><figcaption>Tabbar</figcaption></figure>\n<h3>载入条(Loading bar)</h3>\n<p>载入条是用来告知某个动作的进展，用户可以通过时间、百分比或者其他信息了解整个过程。</p>\n<div class=\"hint-container tip\">\n<p class=\"hint-container-title\">提示</p>\n<p>比如本博客在跳转新页面的时候导航栏下方就会出现载入条</p>\n</div>\n<h3>进度条(Progress bar)</h3>\n<p>给用户提供反馈，让他们了解事件的进度，比如说计划的事情完成了多少。</p>\n<div class=\"hint-container tip\">\n<p class=\"hint-container-title\">提示</p>\n<p>最常见的就是音乐和视频 APP</p>\n</div>\n<h2>按钮(Button)</h2>\n<p>按钮应该是用得最多的元素了。按钮能让用户在对系统发出指令后得到恰当的反馈。用户通过按钮对系统下命令，跟系统进行交互从而实现他们某个目标，比如发送邮件，买一个东西，下载文件，播放音乐等等这样的指令。按钮之所以那么的常用和对用户那么友好，是因为按钮很好地模仿了人和真实世界里跟物品的交互。</p>\n<p>现如今的 UI 按钮有不计其数的设计样式，能满足很多的设计需求。按钮典型的用途是表明这个地方是可点击，因此需要具有非常高的视觉识别，有着特定的形状还有文字说明它能实现什么动作。设计师通常需要花不少时间好好考虑怎么让按钮很好地融合界面的风格，同时又能在视觉上跳脱出来。</p>\n<figure><figcaption>404 页面</figcaption></figure>\n",
-      "date_published": "2020-09-15T00:00:00.000Z",
       "date_modified": "2025-01-07T02:58:54.000Z",
       "authors": [],
       "tags": [
