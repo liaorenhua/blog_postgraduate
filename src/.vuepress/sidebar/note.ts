@@ -14,6 +14,7 @@ export const note = arraySidebar([
       "course_enterprise_investment_and_financing_manage",
       "course_quality_risk_manage",
       "course_human_resource_manage",
+      "course_engineering_ethics_and_research_methods",
       "paper",
       "note",
     ],

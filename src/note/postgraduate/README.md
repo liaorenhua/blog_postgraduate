@@ -21,6 +21,7 @@ tag:
 - [课程-企业融投资](course_enterprise_investment_and_financing_manage.md)
 - [课程-项目质量和风险管理](course_quality_risk_manage.md)
 - [课程-人力资源](course_human_resource_manage.md) 
+- [课程-工程伦理和研究方法](course_engineering_ethics_and_research_methods.md)
 - [论文](paper.md)
 
 - [**相关链接**]()
