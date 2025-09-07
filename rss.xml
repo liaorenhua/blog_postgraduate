@@ -6,8 +6,8 @@
     <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/</link>
     <description>博客承载思想，文字点燃激情.</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 07 Sep 2025 07:35:38 GMT</pubDate>
-    <lastBuildDate>Sun, 07 Sep 2025 07:35:38 GMT</lastBuildDate>
+    <pubDate>Sun, 07 Sep 2025 07:37:38 GMT</pubDate>
+    <lastBuildDate>Sun, 07 Sep 2025 07:37:38 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>基于 MIT 协议，© 2025-至今 Leo</copyright>
@@ -40,15 +40,15 @@
       <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_data_analysis.html</link>
       <guid>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_data_analysis.html</guid>
       <source url="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/rss.xml">课程-大数据决策分析与决策</source>
-      <description>课程-大数据决策分析与决策 2025年9月7日 第一节课 大数据分析和决策 助教： 陈涛 本课能学到 了解金融大数据的基本概念和相关理论知识 1、金融大数据知识简介 2、金融大数据理论基础 3、python基础 4、金融场景下的python 5、python金融分析 6、深度学习大数据分析 7、经典案例分析和实践 要求： 不考试 考勤、课堂表现(讨论和...</description>
+      <description>课程-大数据决策分析与决策 2025年9月7日 第一节课 大数据分析和决策 助教： 老师: 陈涛 本课能学到 了解金融大数据的基本概念和相关理论知识 1、金融大数据知识简介 2、金融大数据理论基础 3、python基础 4、金融场景下的python 5、python金融分析 6、深度学习大数据分析 7、经典案例分析和实践 要求： 不考试 考勤、课堂表现...</description>
       <category>课程-大数据决策分析与决策</category>
       <pubDate>Sun, 07 Sep 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <blockquote>
 <p>2025年9月7日 第一节课<br>
 大数据分析和决策<br>
-助教：
-陈涛</p>
+助教：<br>
+老师: 陈涛</p>
 <p>本课能学到</p>
 <ul>
 <li>了解金融大数据的基本概念和相关理论知识</li>

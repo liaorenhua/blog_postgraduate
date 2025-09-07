@@ -5,7 +5,7 @@
   <subtitle>博客承载思想，文字点燃激情.</subtitle>
   <icon>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/logo.png</icon>
   <rights>基于 MIT 协议，© 2025-至今 Leo</rights>
-  <updated>2025-09-07T07:35:38.810Z</updated>
+  <updated>2025-09-07T07:37:38.448Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/atom.xml"/>
   <link rel="alternate" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/"/>
@@ -43,13 +43,13 @@
     <title type="text">课程-大数据决策分析与决策</title>
     <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_data_analysis.html</id>
     <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_data_analysis.html"/>
-    <updated>2025-09-07T07:32:27.000Z</updated>
+    <updated>2025-09-07T07:34:21.000Z</updated>
     <summary type="html"><![CDATA[
 <blockquote>
 <p>2025年9月7日 第一节课<br>
 大数据分析和决策<br>
-助教：
-陈涛</p>
+助教：<br>
+老师: 陈涛</p>
 <p>本课能学到</p>
 <ul>
 <li>了解金融大数据的基本概念和相关理论知识</li>
@@ -71,8 +71,8 @@
 <blockquote>
 <p>2025年9月7日 第一节课<br>
 大数据分析和决策<br>
-助教：
-陈涛</p>
+助教：<br>
+老师: 陈涛</p>
 <p>本课能学到</p>
 <ul>
 <li>了解金融大数据的基本概念和相关理论知识</li>
