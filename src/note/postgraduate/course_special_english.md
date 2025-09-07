@@ -8,7 +8,10 @@ tag:
 # 课程-专业外语
 > 2025年9月7日 第一节课  
 >  专业外语  
->  助教： 无
+>  助教: 无    
+>  老师: 从春晓 
+>  时间: 16:00-17:30
+> 
 >   
 > 本课能学到
 > - 项目管理专业外语词汇用法、熟练阅读项目管理领域相关文献          
@@ -181,7 +184,8 @@ element:
 | **Quality**           | Quality       | The degree to which the project deliverables meet the preset standards and stakeholders' needs, determining the "good or bad" of the project results. | - Quality Management<br>- Quality Standards<br>- Quality Assurance (QA)<br>- Quality Control (QC)<br>- Quality Plan<br>- Defect<br>- Acceptance Criteria<br>- Customer Satisfaction |
 
 
-
+### 重点
+项目结束阶段：注重不要批评（影响士气），而是总结经验      
 
 
 
