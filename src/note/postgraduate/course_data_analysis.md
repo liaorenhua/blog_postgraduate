@@ -28,7 +28,7 @@ tag:
 
 ## 第一次课
 2025年9月7日   
-大数据背景简介  
+### 大数据背景简介  
 
 大数据特点：   
 1、体量巨大。2025年，全球年新增数据量达到175ZB       
@@ -39,11 +39,31 @@ tag:
 计算方式：         
 1、云计算  
 2、分布式系统（核心map和reduce）   
-![img_1.png](assets/big_map_reduce.png)
+![img_1.png](assets/big_map_reduce.png)   
 
 3、数据挖掘   
 借助算法从海量信息中挖掘有价值信息活动   
-![img.png](assets/filter.jpg)
+![img.png](assets/filter.jpg)   
+
+大数据挑战:   
+1、网络架构    
+
+2、数据中心     
+为啥大数据在贵州等中西部地区？       
+地皮便宜、电费便宜      
+数据丢失   
+数据安全  
+
+3、运维的挑战     
+
+### 金融大数据简介 
+金融行业是典型的数据驱动行业，每天产生大量数据，包括交易、报价、业绩报告等各种指标数据     
+
+![img_1.png](assets/finance_1.png)
+
+金融数据产生主题： 人、物、机器
+
+![img_1.png](assets/suppl_module.png)
 
 ## 第二次课 
 
