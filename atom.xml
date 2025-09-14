@@ -5,7 +5,7 @@
   <subtitle>博客承载思想，文字点燃激情.</subtitle>
   <icon>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/logo.png</icon>
   <rights>基于 MIT 协议，© 2025-至今 Leo</rights>
-  <updated>2025-09-07T08:51:34.857Z</updated>
+  <updated>2025-09-14T05:42:10.597Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/atom.xml"/>
   <link rel="alternate" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/"/>
@@ -44,7 +44,7 @@
     <title type="text">课程-大数据决策分析与决策</title>
     <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_data_analysis.html</id>
     <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_data_analysis.html"/>
-    <updated>2025-09-07T07:52:08.000Z</updated>
+    <updated>2025-09-14T05:38:45.000Z</updated>
     <summary type="html"><![CDATA[
 <blockquote>
 <p>2025年9月7日 第一节课<br>
@@ -152,6 +152,35 @@
 <p>业务代码翻译渐渐被AI替代，未来会越来越难受<br>
 电商跨界金融给传统金融造成交大冲击（信用卡），因此，以银行为代表金融机构接到电商寻求新出路（一方面搭建自己电商、一方面和电商合作）。</p>
 <h2>第二次课</h2>
+<p>2025年9月14日<br>
+大数据分析是指适当的统计分析方法对采集的大数据进行分析，并将这些数据加以汇总、理解和消化，提取有用的信息和形成结论，以求最大化的开发数据的功能和发挥
+数据的作用。</p>
+<h3>大数据分析方法类型</h3>
+<p>1、描述性分析<br>
+描述性分析是指对数据进行描述，如数据的基本统计信息、数据的分布、数据的关系、数据的分布等。<br>
+2、预测性分析<br>
+预测性分析是指利用历史数据和统计模型，对未来事件或结果进行预测。<br>
+3、规范性分析<br>
+正规性分析是指对数据进行正则化，将数据进行转换，使其符合正态分布，从而提高数据的处理效率。<br>
+4、关联规则分析<br>
+关联规则分析是指对数据进行关联，找出数据之间的关联关系，从而找出数据之间的 dependencies。<br>
+5、聚类分析<br>
+聚类分析是指对数据进行聚类，将数据进行分类，从而找出数据之间的 dependencies。<br>
+6、分类分析<br>
+分类分析是指对数据进行分类，将数据进行分类，从而找出数据之间的 dependencies。<br>
+7、时间序列分析<br>
+时间序列分析是指对时间序列数据进行分析，如数据的趋势、季节性、周期性等。<br>
+8、数据挖掘<br>
+数据挖掘是指从大量数据中提取隐藏的模式、关联规则、趋势和异常值等信息的过程。它通常用于发现数据中的隐藏结构和知识，帮助组织做出更明智的决策。<br>
+数据挖掘技术包括关联规则挖掘、聚类分析、分类分析、决策树挖掘、神经网络挖掘等。</p>
+<p>依据探索自然过程，可以划分为定性分析和定量分析，定型分析侧重于模物理模型的建立和数据意义的阐述；定量分析为信息研究提供数据依据，侧重于数学模型
+的建立和求解。二者相互补充。</p>
+<h3>大数据分析方法的步骤</h3>
+<p>1、数据的获取存贮<br>
+2、数据信息抽取和无用信息清洗<br>
+3、数据整合和表述<br>
+4、数据模型建立和结果分析<br>
+5、结果阐述</p>
 <h2>第三次课</h2>
 ]]></content>
     <category term="课程-大数据决策分析与决策"/>
@@ -161,12 +190,14 @@
     <title type="text">课程-专业外语</title>
     <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_special_english.html</id>
     <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_special_english.html"/>
-    <updated>2025-09-07T08:48:29.000Z</updated>
+    <updated>2025-09-07T09:22:05.000Z</updated>
     <summary type="html"><![CDATA[
 <blockquote>
 <p>2025年9月7日 第一节课<br>
 专业外语<br>
-助教： 无</p>
+助教: 无<br>
+老师: 从春晓
+时间: 16:00-17:30</p>
 <p>本课能学到</p>
 <ul>
 <li>项目管理专业外语词汇用法、熟练阅读项目管理领域相关文献</li>
@@ -184,7 +215,9 @@
 <blockquote>
 <p>2025年9月7日 第一节课<br>
 专业外语<br>
-助教： 无</p>
+助教: 无<br>
+老师: 从春晓
+时间: 16:00-17:30</p>
 <p>本课能学到</p>
 <ul>
 <li>项目管理专业外语词汇用法、熟练阅读项目管理领域相关文献</li>
@@ -970,7 +1003,7 @@ ST股票是指在中国A股市场中，由于财务状况或其他异常情况�
     <title type="text">课程-工程伦理与研究方法</title>
     <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_engineering_ethics_and_research_methods.html</id>
     <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_engineering_ethics_and_research_methods.html"/>
-    <updated>2025-09-07T04:32:07.000Z</updated>
+    <updated>2025-09-14T03:06:19.000Z</updated>
     <summary type="html"><![CDATA[
 <blockquote>
 <p>2025年9月7日 第一节课<br>
@@ -987,9 +1020,17 @@ ST股票是指在中国A股市场中，由于财务状况或其他异常情况�
 考勤 15%   <br>
 课堂表现(讨论和发言) 20%  <br>
 课程报告 25%   <br>
-期末展示(讨论小组口头报告,小组以不超过10人) 40% <br></p>
-</blockquote>
-<h2>第一次课</h2>]]></summary>
+期末展示(讨论小组口头报告,小组以不超过10人) 40% <br>
+《工程伦理与研究方法》课程考核要求：<br>
+1.期末小组报告要求：
+以小组为单位，每组不超过10人，烦请尽快完成组队，完成后请组长在讨论区中回复小组的组成情况。
+小组报告的时间为8分钟左右，内容包括1个案例的分析（可以是学术规范类或工程伦理类的）、课程中比较难忘或者受到启发的内容、对于课程的建议意见。形式可以是
+由组长1人汇报，也可以由小组中的多位同学分版块汇报。<br>
+小组汇报的PPT，请组长于11月2日（周日）晚24点前通过elearning提交，具体提交方式另行通知。<br>
+2.课程作业（报告）要求：<br>
+课程最终还需要提交一份课程作业（报告），内容为案例分析报告（学术规范类或工程伦理类的），不少于2000字，包括案例描述、如何看待、学理性分析及建议、参考
+文献等。于12月14日（周日）24点前通过elearning提交，具体提交方式另行通知，文件名格式“学号+姓名”</p>
+</blockquote>]]></summary>
     <content type="html"><![CDATA[
 <blockquote>
 <p>2025年9月7日 第一节课<br>
@@ -1006,7 +1047,16 @@ ST股票是指在中国A股市场中，由于财务状况或其他异常情况�
 考勤 15%   <br>
 课堂表现(讨论和发言) 20%  <br>
 课程报告 25%   <br>
-期末展示(讨论小组口头报告,小组以不超过10人) 40% <br></p>
+期末展示(讨论小组口头报告,小组以不超过10人) 40% <br>
+《工程伦理与研究方法》课程考核要求：<br>
+1.期末小组报告要求：
+以小组为单位，每组不超过10人，烦请尽快完成组队，完成后请组长在讨论区中回复小组的组成情况。
+小组报告的时间为8分钟左右，内容包括1个案例的分析（可以是学术规范类或工程伦理类的）、课程中比较难忘或者受到启发的内容、对于课程的建议意见。形式可以是
+由组长1人汇报，也可以由小组中的多位同学分版块汇报。<br>
+小组汇报的PPT，请组长于11月2日（周日）晚24点前通过elearning提交，具体提交方式另行通知。<br>
+2.课程作业（报告）要求：<br>
+课程最终还需要提交一份课程作业（报告），内容为案例分析报告（学术规范类或工程伦理类的），不少于2000字，包括案例描述、如何看待、学理性分析及建议、参考
+文献等。于12月14日（周日）24点前通过elearning提交，具体提交方式另行通知，文件名格式“学号+姓名”</p>
 </blockquote>
 <h2>第一次课</h2>
 <p>2025年9月7日<br>
@@ -1017,7 +1067,18 @@ ST股票是指在中国A股市场中，由于财务状况或其他异常情况�
 去除本人已经发表文献复制比超30%，取消本学籍内学位申请资格，导师暂停招生资格2年</p>
 <p>工程管理和工商管理区别之一：  工程管理论文需要有验证</p>
 <h2>第二次课</h2>
-<h2>第三次课</h2>
+<p>2025年9月14日<br>
+学院论文答辩，需要提前一个季度(3个月)申请，否则来不及答辩，学校会拒绝对应时间论文的答辩申请。例如，6月毕业，则3月就需要申请。</p>
+<h3>引用他人论文过多被认为学术不端</h3>
+<p>引用非诗词类作品不得超过 本人10%<br>
+引入论文过多会导致，论文质量下降，影响学位申请。（一般不超过10%）<br>
+一般一二章节引用  三四五六章节一般不引用<br>
+近3-5年论文引入占比1/3+
+30篇+参考文献，按照顺序引用</p>
+<h3>工程伦理与研究方法</h3>
+<h2>工程伦理与研究方法的“核心原则”一览表</h2>
+<p>| 类别         | 原则名称           | 关键词                     |
+|</p>
 ]]></content>
     <category term="课程-工程伦理与研究方法"/>
     <published>2025-09-07T00:00:00.000Z</published>
