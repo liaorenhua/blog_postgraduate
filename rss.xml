@@ -6,8 +6,8 @@
     <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/</link>
     <description>博客承载思想，文字点燃激情.</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 14 Sep 2025 05:42:10 GMT</pubDate>
-    <lastBuildDate>Sun, 14 Sep 2025 05:42:10 GMT</lastBuildDate>
+    <pubDate>Sun, 14 Sep 2025 11:44:12 GMT</pubDate>
+    <lastBuildDate>Sun, 14 Sep 2025 11:44:12 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>基于 MIT 协议，© 2025-至今 Leo</copyright>
@@ -141,9 +141,9 @@
 4、关联规则分析<br>
 关联规则分析是指对数据进行关联，找出数据之间的关联关系，从而找出数据之间的 dependencies。<br>
 5、聚类分析<br>
-聚类分析是指对数据进行聚类，将数据进行分类，从而找出数据之间的 dependencies。<br>
+聚类分析是指对数据进行聚类(分到未知类别)，将数据进行分类，从而找出数据之间的 dependencies。<br>
 6、分类分析<br>
-分类分析是指对数据进行分类，将数据进行分类，从而找出数据之间的 dependencies。<br>
+分类分析是指对数据进行分类(分到已知类别)，将数据进行分类，从而找出数据之间的 dependencies。<br>
 7、时间序列分析<br>
 时间序列分析是指对时间序列数据进行分析，如数据的趋势、季节性、周期性等。<br>
 8、数据挖掘<br>
@@ -157,7 +157,13 @@
 3、数据整合和表述<br>
 4、数据模型建立和结果分析<br>
 5、结果阐述</p>
-<h2>第三次课</h2>
+<h3>大数据预处理</h3>
+<p>大数据预处理是数据分析和机器学习流程中至关重要的一步。它的目标是将原始、杂乱、不完整或含有噪声的数据，转化为<strong>干净、一致、适合分析或建模的格式</strong>。如果跳过这一步，后续的分析结果可能会严重失真。</p>
+<blockquote>
+<p>💡 <strong>核心原则</strong>：<br>
+<strong>“垃圾进，垃圾出”（Garbage In, Garbage Out）</strong><br>
+再强大的模型也救不了脏数据。</p>
+</blockquote>
 ]]></content:encoded>
     </item>
     <item>
