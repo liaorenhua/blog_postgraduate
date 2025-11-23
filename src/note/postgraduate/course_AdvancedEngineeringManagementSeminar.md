@@ -181,7 +181,7 @@ tag:
 - 小变动引发系统级故障（如AI依赖，政策突变，老师举了特朗普调整政策导致海关系统异常的案例）  
 结果：你越“专业”， 越容易成为第一个被牺牲的“责任人”   
 
-### 特征
+## 挑战和应对之策
 
 ![img_1.png](assets/course_2.png)
 
@@ -189,7 +189,7 @@ tag:
 
 ![img_1.png](assets/course_4.png)
 
-
+### 1.目标 
 ![img_1.png](assets/course_5.png)
 
 ![img_1.png](assets/course_6.png)
@@ -201,7 +201,7 @@ tag:
 
 ![img_1.png](assets/试错.png)
 
-### 风险 
+### 2.风险 
 
 ![img_1.png](assets/风险.png)
 
@@ -219,17 +219,15 @@ tag:
 
 总结：不是不出风险 而是 风险崩溃后还能“站起来”  
 
-### 领导力  
+### 3.领导力  
 
 ![img_2.png](assets/领导力.png)
 
 论发起人的自我修养 
-![img_2.png](assets/领导力3.1.jpg)
-
 ![img_3.png](assets/领导力3.1.png)
 
 
-### 新生代项目成员怎么带？
+#### 新生代项目成员怎么带？
 
 ![img_3.png](assets/新生代3.2.png)
 
@@ -247,7 +245,7 @@ tag:
 ![img_1.png](assets/新生代3.3.jpg)
 
 
-### 协作 
+### 4.协作 
 
 ![img_5.png](assets/协作4.1.png)
 
@@ -278,9 +276,9 @@ tag:
 ![img_5.png](img_5.png)
 
 
-### 创新  
+### 5.创新  
 ![img_6.png](assets/创新.png)
 
-### 总结  
+### 6.总结  
 用自身 + 团队的任性对应NANI时代的脆弱  
-![img_6.png](assets/总结.png)
+![img_6.png](assets/风险总结.png)
