@@ -1,7 +1,7 @@
 ---
-date: 2022-01-07
+date: 2025-11-23
 layout: SlidePage
-title: Mr.Hope Intro
+title: Mr.Leo Intro
 icon: people
 tag:
   - Personal Intro
@@ -10,8 +10,6 @@ tag:
 @slidestart
 
 - Gender: Male
-- Age: 24
-- Marital status: unmarried
 - Single: No
 - Hobbies: fishing, chess, cursive English, badminton, programming
 

@@ -13,7 +13,7 @@ This site is built with [VuePress](https://v1.vuepress.vuejs.org/guide/).
 
 ## Repository Link
 
-- [**Mr.Hope’s Personal Blog**](https://github.com/Mister-Hope/blog)
+- [**Mr.Leo’s Personal Blog**](https://liaorenhua.github.io/blog_postgraduate/)
 
 ## Disclamer
 

@@ -24,7 +24,8 @@ tag:
 - [课程-工程伦理和研究方法](course_engineering_ethics_and_research_methods.md)
 - [课程-大数据决策分析与决策](course_data_analysis.md)
 - [课程-专业外语](course_special_english.md)
-- [课程-创新与创业](InnovationAndEntrepreneurship.md)
+- [课程-创新与创业](course_InnovationAndEntrepreneurship.md)
+- [课程-前沿技术讲座](course_AdvancedEngineeringManagementSeminar)
 - [论文](paper.md)
 
 - [**相关链接**]()
