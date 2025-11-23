@@ -237,9 +237,7 @@ tag:
 
 项目团队：若经济价值不到位的时候，情绪价值得多提供   
 
-![img_3.png](新生代3.2.3.png)
-
-![img_4.png](img_4.png)
+![img_4.png](assets/新生代怎么带.png)
 
 调心态、搞文化   
 ![img_1.png](assets/新生代3.3.jpg)
@@ -261,11 +259,10 @@ tag:
 ![img_5.png](assets/协作4.3.png)
 
 **有效沟通要点-团队**
-
 ![img_5.png](assets/协作4.3.2.png)
 
 
-
+协作阶段 
 ![img_5.png](assets/协作阶段.png)
 
 我们现在领导是：信任型，不咋管理  
@@ -273,7 +270,7 @@ tag:
 
 
 领导还是需要抗事情的人，跪舔不必要 
-![img_5.png](img_5.png)
+![img_5.png](assets/对待上级.png)
 
 
 ### 5.创新  
