@@ -5,22 +5,22 @@
   <subtitle>Leo personal blog</subtitle>
   <icon>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/logo.png</icon>
   <rights>MIT Licensed, © 2025-present Leo</rights>
-  <updated>2025-09-14T11:44:12.650Z</updated>
+  <updated>2025-11-24T02:05:31.155Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/atom.xml"/>
   <link rel="alternate" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/"/>
   <entry>
-    <title type="text">Mr.Hope Intro</title>
+    <title type="text">Mr.Leo Intro</title>
     <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/about/</id>
     <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/about/"/>
-    <updated>2025-01-07T02:58:54.000Z</updated>
-    <published>2022-01-07T00:00:00.000Z</published>
+    <updated>2025-11-23T06:00:25.000Z</updated>
+    <published>2025-11-23T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">About site</title>
     <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/about/site.html</id>
     <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/about/site.html"/>
-    <updated>2025-01-07T02:58:54.000Z</updated>
+    <updated>2025-11-23T06:00:25.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container tip">
 <p class="hint-container-title">building</p>
@@ -28,7 +28,7 @@
 </div>
 <h2>Repository Link</h2>
 <ul>
-<li><a href="https://github.com/Mister-Hope/blog" target="_blank" rel="noopener noreferrer"><strong>Mr.Hope’s Personal Blog</strong></a></li>
+<li><a href="https://liaorenhua.github.io/blog_postgraduate/" target="_blank" rel="noopener noreferrer"><strong>Mr.Leo’s Personal Blog</strong></a></li>
 </ul>]]></summary>
     <content type="html"><![CDATA[
 <div class="hint-container tip">
@@ -37,7 +37,7 @@
 </div>
 <h2>Repository Link</h2>
 <ul>
-<li><a href="https://github.com/Mister-Hope/blog" target="_blank" rel="noopener noreferrer"><strong>Mr.Hope’s Personal Blog</strong></a></li>
+<li><a href="https://liaorenhua.github.io/blog_postgraduate/" target="_blank" rel="noopener noreferrer"><strong>Mr.Leo’s Personal Blog</strong></a></li>
 </ul>
 <h2>Disclamer</h2>
 <p>This blog contains books &amp; blogs from <a href="https://github.com/ruanyf" target="_blank" rel="noopener noreferrer">ruanyf</a> and <a href="https://weibo.com/liaoxuefeng" target="_blank" rel="noopener noreferrer">廖雪峰</a>.</p>

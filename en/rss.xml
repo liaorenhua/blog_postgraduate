@@ -6,24 +6,24 @@
     <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/</link>
     <description>Leo personal blog</description>
     <language>en-US</language>
-    <pubDate>Sun, 14 Sep 2025 11:44:12 GMT</pubDate>
-    <lastBuildDate>Sun, 14 Sep 2025 11:44:12 GMT</lastBuildDate>
+    <pubDate>Mon, 24 Nov 2025 02:05:31 GMT</pubDate>
+    <lastBuildDate>Mon, 24 Nov 2025 02:05:31 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>MIT Licensed, © 2025-present Leo</copyright>
     <item>
-      <title>Mr.Hope Intro</title>
+      <title>Mr.Leo Intro</title>
       <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/about/</link>
       <guid>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/about/</guid>
-      <source url="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/rss.xml">Mr.Hope Intro</source>
-      <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
+      <source url="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/rss.xml">Mr.Leo Intro</source>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>About site</title>
       <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/about/site.html</link>
       <guid>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/about/site.html</guid>
       <source url="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/en/rss.xml">About site</source>
-      <description>About site building This site is built with VuePress. Repository Link Mr.Hope’s Personal Blog Disclamer This blog contains books &amp; blogs from ruanyf and 廖雪峰. Great thanks to them.</description>
+      <description>About site building This site is built with VuePress. Repository Link Mr.Leo’s Personal Blog Disclamer This blog contains books &amp; blogs from ruanyf and 廖雪峰. Great thanks to them.</description>
       <pubDate>Mon, 04 May 2020 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <div class="hint-container tip">
@@ -32,7 +32,7 @@
 </div>
 <h2>Repository Link</h2>
 <ul>
-<li><a href="https://github.com/Mister-Hope/blog" target="_blank" rel="noopener noreferrer"><strong>Mr.Hope’s Personal Blog</strong></a></li>
+<li><a href="https://liaorenhua.github.io/blog_postgraduate/" target="_blank" rel="noopener noreferrer"><strong>Mr.Leo’s Personal Blog</strong></a></li>
 </ul>
 <h2>Disclamer</h2>
 <p>This blog contains books &amp; blogs from <a href="https://github.com/ruanyf" target="_blank" rel="noopener noreferrer">ruanyf</a> and <a href="https://weibo.com/liaoxuefeng" target="_blank" rel="noopener noreferrer">廖雪峰</a>.</p>
