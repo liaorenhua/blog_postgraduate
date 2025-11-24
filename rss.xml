@@ -6,11 +6,12 @@
     <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/</link>
     <description>博客承载思想，文字点燃激情.</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 24 Nov 2025 02:05:31 GMT</pubDate>
-    <lastBuildDate>Mon, 24 Nov 2025 02:05:31 GMT</lastBuildDate>
+    <pubDate>Mon, 24 Nov 2025 02:11:30 GMT</pubDate>
+    <lastBuildDate>Mon, 24 Nov 2025 02:11:30 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>基于 MIT 协议，© 2025-至今 Leo</copyright>
+    <category>课程-前沿技术讲座</category>
     <category>课程-创新创业</category>
     <category>课程-大数据决策分析与决策</category>
     <category>课程-专业外语</category>
@@ -42,9 +43,44 @@
       <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_AdvancedEngineeringManagementSeminar.html</link>
       <guid>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_AdvancedEngineeringManagementSeminar.html</guid>
       <source url="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/rss.xml">课程-前沿技术讲座</source>
-      <description>~~--- icon: form date: 2025年11月9日 category: 课程-前沿技术讲座 tag: 课程 课程-前沿技术讲座 2025年11月9日 第一节课 前沿技术讲座 助教： 无 老师： 冯瑞等 要求： 第一次课 2025年11月9日 重点简VC行业 什么是一级市场 定义 一级市场（Primary Market），也称为发行市场或...</description>
-      <pubDate>Sun, 23 Nov 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>~~</p>
+      <description>课程-前沿技术讲座 2025年11月9日 第一节课 前沿技术讲座 助教： 无 老师： 冯瑞等 要求： 第一次课 2025年11月9日 重点简VC行业 什么是一级市场 定义 一级市场（Primary Market），也称为发行市场或初级市场，是新证券首次发行并销售给投资者的市场。在一级市场中，公司、政府或其他实体通过发行新的股票、债 券或其他证券直接从投...</description>
+      <category>课程-前沿技术讲座</category>
+      <pubDate>Sun, 23 Nov 2025 06:00:25 GMT</pubDate>
+      <content:encoded><![CDATA[
+<blockquote>
+<p>2025年11月9日 第一节课<br>
+前沿技术讲座<br>
+助教： 无
+老师： 冯瑞等</p>
+<p>要求：   <br></p>
+</blockquote>
+<h1>第一次课</h1>
+<p>2025年11月9日<br>
+重点简VC行业</p>
+<h1>什么是一级市场</h1>
+<h2>定义</h2>
+<p>一级市场（Primary Market），也称为发行市场或初级市场，是新证券首次发行并销售给投资者的市场。在一级市场中，公司、政府或其他实体通过发行新的股票、债
+券或其他证券直接从投资者那里筹集资金。</p>
+<h2>主要特点</h2>
+<h3>1. 资金筹集</h3>
+<ul>
+<li>企业通过发行新证券直接向投资者筹集资金</li>
+<li>筹集的资金通常用于业务扩张、研发、偿还债务等</li>
+</ul>
+<h3>2. 首次发行</h3>
+<ul>
+<li>证券首次面向公众或特定投资者发行</li>
+<li>发行后证券可以在二级市场进行交易</li>
+</ul>
+<h3>3. 参与方</h3>
+<ul>
+<li><strong>发行人</strong>：需要筹集资金的公司或政府机构</li>
+<li><strong>投资者</strong>：购买新发行证券的个人或机构</li>
+<li><strong>中介机构</strong>：投资银行、承销商等金融中介机构</li>
+</ul>
+<h2>一级市场与二级市场的区别</h2>
+<p>| 特征 | 一级市场 | 二级市场 |
+|</p>
 ]]></content:encoded>
     </item>
     <item>
