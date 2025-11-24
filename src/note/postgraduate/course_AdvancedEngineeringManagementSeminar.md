@@ -249,35 +249,35 @@ tag:
 
 ### 4.协作 
 
-![img_5.png](assets/协作4.1.png)
+![img_4.png](assets/协作4.1.png)
 
 **有效沟通透明度**  
 传统沟通是金字塔   ->  去中心化    
 项目经理中角色 ,但是降低控制欲   
-![img_5.png](assets/协作4.2.jpg)
+![img_4.png](assets/协作4.2.jpg)
 
 **有效沟通要点-个人** 
 猫头鹰：给足面子，喊“老师”，分配数据组非常好！谨慎型人格，多提感恩。
 无相：还有一种变色龙人格，需要变啥就是啥 
-![img_5.png](assets/协作4.3.png)
+![img_4.png](assets/协作4.3.png)
 
 **有效沟通要点-团队**
-![img_5.png](assets/协作4.3.2.png)
+![img_4.png](assets/协作4.3.2.png)
 
 
 协作阶段 
-![img_5.png](assets/协作阶段.png)
+![img_4.png](assets/协作阶段.png)
 
 我们现在领导是：信任型，不咋管理  
-![img_6.png](assets/协作4.3.上级.png)
+![img_4.png](assets/协作4.3.上级.png)
 
 
 领导还是需要抗事情的人，跪舔不必要 
-![img_5.png](assets/对待上级.png)
+![img_4.png](assets/对待上级.png)
 
 
 ### 5.创新  
-![img_6.png](assets/创新.png)
+![img_5.png](assets/创新.png)
 
 ### 6.总结  
 用自身 + 团队的任性对应NANI时代的脆弱  
