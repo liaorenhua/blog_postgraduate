@@ -5,7 +5,7 @@
   <subtitle>博客承载思想，文字点燃激情.</subtitle>
   <icon>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/logo.png</icon>
   <rights>基于 MIT 协议，© 2025-至今 Leo</rights>
-  <updated>2025-12-07T01:22:53.221Z</updated>
+  <updated>2025-12-07T05:27:39.904Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/atom.xml"/>
   <link rel="alternate" href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/"/>
@@ -46,7 +46,7 @@
     <title type="text">课程-前沿技术讲座</title>
     <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_AdvancedEngineeringManagementSeminar.html</id>
     <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_AdvancedEngineeringManagementSeminar.html"/>
-    <updated>2025-11-24T02:08:14.000Z</updated>
+    <updated>2025-12-07T05:24:16.000Z</updated>
     <summary type="html"><![CDATA[
 <blockquote>
 <p>2025年11月9日 第一节课<br>
@@ -107,7 +107,7 @@
     <title type="text">课程-创新创业</title>
     <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_InnovationAndEntrepreneurship.html</id>
     <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/course_InnovationAndEntrepreneurship.html"/>
-    <updated>2025-12-07T01:19:22.000Z</updated>
+    <updated>2025-12-07T03:10:29.000Z</updated>
     <summary type="html"><![CDATA[
 <blockquote>
 <p>2025年11月9日 第一节课<br>
@@ -216,6 +216,26 @@ threat(威胁-外部)</p>
 当提问者问到和ppt展示相关的问题时，要迅速翻到相关页面<br>
 若是投资人的问题，建议可以和投资人互动，了解投资人的需求<br>
 正确对待所有人对项目和路演提出的批评</p>
+<h3>广告营销</h3>
+<p><strong>创业者的广告营销意识</strong><br>
+广告大神告诉你<br>
+一份精良的广告不会低声下气地乞求顾客购买<br>
+看看你的广告和你的产品/服务“气质”相符吗<br>
+尽量精准定位目标人群》懂得一些消费心理学<br>
+不要编造谎言<br>
+广告的目标绝不是潜在客户的一次性消费<br>
+谨记真善美</p>
+<p><strong>一份精良的广告不会低声下气乞求顾客购买</strong><br>
+</p>
+<p><strong>产品服务和“气质”相符</strong><br>
+课程举了例子： 奢侈品请明细代言；而优衣库提供的舒适和亲民广告图片</p>
+<p><strong>尽量精准定位目标人群</strong></p>
+<p><strong>心理学</strong><br>
+最近很火的 卖甘蔗，被抓住就多付费<br>
+给人稀缺性  例如早期小米<br>
+赠送赠品、优惠</p>
+<p><strong>真实</strong><br>
+否则容易被同业竞争者举报</p>
 ]]></content>
     <category term="课程-创新创业"/>
     <published>2025-11-23T06:00:25.000Z</published>
@@ -2624,42 +2644,6 @@ ST股票是指在中国A股市场中，由于财务状况或其他异常情况�
     <content type="html"><![CDATA[<p>Postman 是一个强大的抓包与网络调试工具。</p>
 ]]></content>
     <published>2020-05-04T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">Windows 开发</title>
-    <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/career/humanity/developers.html</id>
-    <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/career/humanity/developers.html"/>
-    <updated>2025-01-12T11:20:39.000Z</updated>
-    <summary type="html"><![CDATA[<p>本文主要介绍 Windows 11 系统下，与开发相关的功能。</p>
-<h2>WSL</h2>
-<p>WSL 是 Windows Subsystem for Linux 的缩写，即 Windows 的 Linux 子系统。Windows 11 支持 WSL2，同时支持 wslg，即 WSL 图形化。</p>
-<p>你可以很方便的启用 Windows For Linux 子系统，然后在 Windows 11 上安装 Linux 发行版，如 Ubuntu、Debian、Kali 等，然后在 Linux 环境下进行开发，同时启用 wslg，即可在 Windows 11 上使用 Linux 图形化应用如 Firefox 等进行调试。</p>]]></summary>
-    <content type="html"><![CDATA[<p>本文主要介绍 Windows 11 系统下，与开发相关的功能。</p>
-<h2>WSL</h2>
-<p>WSL 是 Windows Subsystem for Linux 的缩写，即 Windows 的 Linux 子系统。Windows 11 支持 WSL2，同时支持 wslg，即 WSL 图形化。</p>
-<p>你可以很方便的启用 Windows For Linux 子系统，然后在 Windows 11 上安装 Linux 发行版，如 Ubuntu、Debian、Kali 等，然后在 Linux 环境下进行开发，同时启用 wslg，即可在 Windows 11 上使用 Linux 图形化应用如 Firefox 等进行调试。</p>
-<h3>安装 WSL</h3>
-<p>你可以使用单个命令安装运行 WSL 所需的一切内容。 在管理员模式下打开 PowerShell 或 Windows 命令提示符，方法是右键单击并选择“以管理员身份运行”，输入 <code>wsl --install</code> 命令，然后重启计算机。</p>
-<div class="hint-container info">
-<p class="hint-container-title">相关信息</p>
-<p>有关 WSL 的详细内容，详见 <a href="https://learn.microsoft.com/zh-cn/windows/wsl/" target="_blank" rel="noopener noreferrer">WSL 官方文档</a>。</p>
-</div>
-<h2>WSA</h2>
-<p>WSA 是 Windows Subsystem for Android 的缩写，即 Windows 的 Android 子系统。Windows 11 支持 WSA，你可以在 Windows 11 上安装 Android 应用，如微信、QQ、抖音等，然后在 Windows 11 上使用。</p>
-<p>默认情况下，你只能通过 WSA 内置的 Amazon 应用商店安装应用，但是你可以打开开发者模式通过 adb 安装任意应用的 APK。</p>
-<div class="hint-container info">
-<p class="hint-container-title">相关信息</p>
-<p>有关 WSA 的详细内容，详见 <a href="https://learn.microsoft.com/zh-cn/windows/android/wsa/" target="_blank" rel="noopener noreferrer">WSA 官方文档</a>。</p>
-</div>
-<h2>Windows 终端</h2>
-<p>Windows 终端是一个新式主机应用程序，它面向你喜爱的命令行 shell，如命令提示符、PowerShell 和 bash（通过适用于 Linux 的 Windows 子系统 (WSL)）。 它的主要功能包括多个选项卡、窗格、Unicode 和 UTF-8 字符支持、GPU 加速文本呈现引擎，你还可用它来创建你自己的主题并自定义文本、颜色、背景和快捷方式。</p>
-<p>更多内容详见 <a href="/blog_postgraduate/software/tool/terminal/" target="_blank">软件 → Windows 终端</a>。</p>
-<h2>PowerToys</h2>
-<p>Microsoft PowerToys 是一组实用工具，可帮助高级用户调整和简化其 Windows 体验，从而提高工作效率。</p>
-<p>更多内容详见 <a href="/blog_postgraduate/software/tool/power-toys.html" target="_blank">软件 → PowerToys</a>。</p>
-]]></content>
-    <category term="基础"/>
-    <published>2024-01-26T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">应用基础知识</title>
@@ -5573,6 +5557,42 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
 <p>Microsoft Windows 操作系统是美国微软公司研发的一套操作系统，它问世于 1985 年，起初仅仅是 Microsoft-DOS 模拟环境，后续的系统版本由于微软不断的更新升级，不但易用，也当前应用最广泛的操作系统。</p>
 <p>Windows 采用了图形化模式 GUI，比起从前的 DOS 需要输入指令使用的方式，更为人性化。随着计算机硬件和软件的不断升级，微软的 Windows也在不断升级，从架构的16位、32位再到64位,系统版本从最初的 Windows1.0到大家熟知的 Windows95、 Windows98、 Windows2000、 Windows XP、 Windows Vista、 Windows7、Windows8、Windows8.1、Windows10、Windows11 和 Windows Server 服务器企业级操作系统，不断持续更新.</p>
 <p>目前，最新的消费者版本是 Windows 11。</p>
+]]></content>
+    <category term="基础"/>
+    <published>2024-01-26T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Windows 开发</title>
+    <id>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/career/humanity/developers.html</id>
+    <link href="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/career/humanity/developers.html"/>
+    <updated>2025-01-12T11:20:39.000Z</updated>
+    <summary type="html"><![CDATA[<p>本文主要介绍 Windows 11 系统下，与开发相关的功能。</p>
+<h2>WSL</h2>
+<p>WSL 是 Windows Subsystem for Linux 的缩写，即 Windows 的 Linux 子系统。Windows 11 支持 WSL2，同时支持 wslg，即 WSL 图形化。</p>
+<p>你可以很方便的启用 Windows For Linux 子系统，然后在 Windows 11 上安装 Linux 发行版，如 Ubuntu、Debian、Kali 等，然后在 Linux 环境下进行开发，同时启用 wslg，即可在 Windows 11 上使用 Linux 图形化应用如 Firefox 等进行调试。</p>]]></summary>
+    <content type="html"><![CDATA[<p>本文主要介绍 Windows 11 系统下，与开发相关的功能。</p>
+<h2>WSL</h2>
+<p>WSL 是 Windows Subsystem for Linux 的缩写，即 Windows 的 Linux 子系统。Windows 11 支持 WSL2，同时支持 wslg，即 WSL 图形化。</p>
+<p>你可以很方便的启用 Windows For Linux 子系统，然后在 Windows 11 上安装 Linux 发行版，如 Ubuntu、Debian、Kali 等，然后在 Linux 环境下进行开发，同时启用 wslg，即可在 Windows 11 上使用 Linux 图形化应用如 Firefox 等进行调试。</p>
+<h3>安装 WSL</h3>
+<p>你可以使用单个命令安装运行 WSL 所需的一切内容。 在管理员模式下打开 PowerShell 或 Windows 命令提示符，方法是右键单击并选择“以管理员身份运行”，输入 <code>wsl --install</code> 命令，然后重启计算机。</p>
+<div class="hint-container info">
+<p class="hint-container-title">相关信息</p>
+<p>有关 WSL 的详细内容，详见 <a href="https://learn.microsoft.com/zh-cn/windows/wsl/" target="_blank" rel="noopener noreferrer">WSL 官方文档</a>。</p>
+</div>
+<h2>WSA</h2>
+<p>WSA 是 Windows Subsystem for Android 的缩写，即 Windows 的 Android 子系统。Windows 11 支持 WSA，你可以在 Windows 11 上安装 Android 应用，如微信、QQ、抖音等，然后在 Windows 11 上使用。</p>
+<p>默认情况下，你只能通过 WSA 内置的 Amazon 应用商店安装应用，但是你可以打开开发者模式通过 adb 安装任意应用的 APK。</p>
+<div class="hint-container info">
+<p class="hint-container-title">相关信息</p>
+<p>有关 WSA 的详细内容，详见 <a href="https://learn.microsoft.com/zh-cn/windows/android/wsa/" target="_blank" rel="noopener noreferrer">WSA 官方文档</a>。</p>
+</div>
+<h2>Windows 终端</h2>
+<p>Windows 终端是一个新式主机应用程序，它面向你喜爱的命令行 shell，如命令提示符、PowerShell 和 bash（通过适用于 Linux 的 Windows 子系统 (WSL)）。 它的主要功能包括多个选项卡、窗格、Unicode 和 UTF-8 字符支持、GPU 加速文本呈现引擎，你还可用它来创建你自己的主题并自定义文本、颜色、背景和快捷方式。</p>
+<p>更多内容详见 <a href="/blog_postgraduate/software/tool/terminal/" target="_blank">软件 → Windows 终端</a>。</p>
+<h2>PowerToys</h2>
+<p>Microsoft PowerToys 是一组实用工具，可帮助高级用户调整和简化其 Windows 体验，从而提高工作效率。</p>
+<p>更多内容详见 <a href="/blog_postgraduate/software/tool/power-toys.html" target="_blank">软件 → PowerToys</a>。</p>
 ]]></content>
     <category term="基础"/>
     <published>2024-01-26T00:00:00.000Z</published>
