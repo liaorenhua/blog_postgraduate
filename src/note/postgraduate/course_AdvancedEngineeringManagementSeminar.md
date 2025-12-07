@@ -309,4 +309,7 @@ AI就业需要的是：高阶认知能力、人际互动、数字基础
 
 ![img_2.png](assets/ziben_fenhua.png)
 
+## 案例库  
+用于判断胜诉率  
+![img_2.png](assets/anliku.png)
 
