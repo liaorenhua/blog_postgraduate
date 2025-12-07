@@ -278,3 +278,35 @@ tag:
 ### 6.总结  
 用自身 + 团队的任性对应NANI时代的脆弱  
 ![img_6.png](assets/风险总结.png)
+
+# 第四次课
+2025年12月7日    
+AI时代超大城市基层治理新范式   
+北外滩街道党工委书记   蒋霜胤  
+
+**AI+的本质内涵**   
+![img_2.png](assets/ai.png)
+
+**AI+重点领域**   
+![img_2.png](assets/ai_plus.png)
+
+**AI+民生福祉**  
+例如：辅助器具  
+![img_2.png](assets/msfz.png) 
+
+## 人是否被AI替代？
+淘汰的是不会使用AI的人     
+AI就业需要的是：高阶认知能力、人际互动、数字基础         
+
+![img_2.png](assets/ai_replace.png)
+
+## 十年后，如何与AI共处？
+伦理决策能力：  AI不会担责，例如：医院医生    
+![img_2.png](assets/ai_jineng.png)
+
+## AI的技术分化/资本分化  
+![img_2.png](assets/jishu_fenhua.png)
+
+![img_2.png](assets/ziben_fenhua.png)
+
+
