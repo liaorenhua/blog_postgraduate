@@ -6,8 +6,8 @@
     <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/</link>
     <description>博客承载思想，文字点燃激情.</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 24 Dec 2025 03:29:37 GMT</pubDate>
-    <lastBuildDate>Wed, 24 Dec 2025 03:29:37 GMT</lastBuildDate>
+    <pubDate>Sun, 05 Jul 2026 13:23:28 GMT</pubDate>
+    <lastBuildDate>Sun, 05 Jul 2026 13:23:28 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>基于 MIT 协议，© 2025-至今 Leo</copyright>
@@ -1033,10 +1033,13 @@ ST股票是指在中国A股市场中，由于财务状况或其他异常情况�
 <p><a href="/blog_postgraduate/note/postgraduate/course_InnovationAndEntrepreneurship.html" target="_blank">课程-创新与创业</a></p>
 </li>
 <li>
-<p><a href="course_AdvancedEngineeringManagementSeminar">课程-前沿技术讲座</a></p>
+<p><a href="/blog_postgraduate/note/postgraduate/course_AdvancedEngineeringManagementSeminar.html" target="_blank">课程-前沿技术讲座</a></p>
 </li>
 <li>
 <p><a href="/blog_postgraduate/note/postgraduate/paper.html" target="_blank">论文</a></p>
+</li>
+<li>
+<p><a href="/blog_postgraduate/note/postgraduate/paper_2.html" target="_blank">论文-论文-质量管理-基本概念</a></p>
 </li>
 <li>
 <p><a href=""><strong>相关链接</strong></a></p>
@@ -1157,6 +1160,96 @@ ST股票是指在中国A股市场中，由于财务状况或其他异常情况�
       <pubDate>Sat, 18 Jan 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <p>论文写作注意事项</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>论文-质量管理-基本概念</title>
+      <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/paper_2.html</link>
+      <guid>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/note/postgraduate/paper_2.html</guid>
+      <source url="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/rss.xml">论文-质量管理-基本概念</source>
+      <description>论文-质量管理-基本概念 AHP AHP是美国运筹学家萨蒂提出来的。将多目标决策看成一个系统。选择困难症的福音。 学习视频: https://www.bilibili.com/video/BV1P7CtBoEB5?spm_id_from=333.788.recommend_more_video.3&amp;trackid=web_related_0.route...</description>
+      <category>论文</category>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<h2>AHP</h2>
+<p>AHP是美国运筹学家萨蒂提出来的。将多目标决策看成一个系统。选择困难症的福音。</p>
+<p>学习视频:<br>
+https://www.bilibili.com/video/BV1P7CtBoEB5?spm_id_from=333.788.recommend_more_video.3&amp;trackid=web_related_0.router-related-2589621-ftmm5.1783215280780.768&amp;vd_source=4755df92d584f2e38c7c920e0f533352</p>
+<p>https://www.bilibili.com/video/BV1uz421r7gM?buvid=XU05B800F0635C1015F994E2E5CB2A2C92B6E&amp;from_spmid=search.search-result.0.0&amp;is_story_h5=false&amp;mid=uUznQecb7LY3M%2B4oKVUq3Q%3D%3D&amp;plat_id=114&amp;share_from=ugc&amp;share_medium=android&amp;share_plat=android&amp;share_session_id=5eb3fd5f-8fb8-4f86-8711-d8bc94961a72&amp;share_source=WEIXIN&amp;share_tag=s_i&amp;spmid=united.player-video-detail.0.0&amp;timestamp=1783238107&amp;unique_k=MXa0Zgh&amp;up_id=3546594160937520&amp;vd_source=4755df92d584f2e38c7c920e0f533352</p>
+<p>对于研究中的复杂决策问题，第一步不是直接打分，而是先构建指标体系，明确目标层、准则层和方案层，再通过问卷或专家评分形成判断矩阵。</p>
+<p>以“找女朋友”为例，假设需要从 A、B、C 三个女人中选择最优方案，评价标准包括健康、相貌、经济状况、家庭背景、价值观和生活习惯多个维度。此时，AHP 的基本操作可以概括为五步：</p>
+<ol>
+<li><strong>构建层次结构</strong>
+<ul>
+<li>目标层：要解决的问题(找女朋友)</li>
+<li>因素层/准则层(可以是一级指标-二级指标允许多准则)：解决目标问题所需考虑因素(健康-精神疾病遗传病等二级指标、相貌-身高年龄等等二级指标、经济状况-固定资产流动资产等二级指标、家庭背景-普通家庭高干家庭等二级指标等多项指标)</li>
+<li>方案层：解决各类问题的方案(例如：谈恋爱的三维候选人，富婆、小姐姐、妹妹)</li>
+</ul>
+</li>
+</ol>
+<p>如果因素层会有2-3级甚至更多，那么又可以递归换转换为：目标层和因素层。</p>
+<p>例如1：<br>
+
+例如2：<br>
+</p>
+<ol start="2">
+<li><strong>构建判断矩阵</strong>
+<ul>
+<li>让专家或业务人员对同一层级中的指标进行两两比较</li>
+<li>比较结果反映各指标在目标中的相对重要性</li>
+<li>最终形成权重计算所需的判断矩阵</li>
+<li>准则层需要构建基于目标层的判断矩阵，方案层需要基于每个准则构建，有三个准则因此要构建3个，共计4个规则矩阵。</li>
+</ul>
+</li>
+</ol>
+<p>标度表：<br>
+</p>
+<figure><figcaption>juzhen_2.png</figcaption></figure>
+<figure><figcaption>juzhen_3.png</figcaption></figure>
+<p>问卷收集：<br>
+</p>
+<ol start="3">
+<li><strong>指标权重计算</strong>
+<ul>
+<li>问卷的核心不是问“你选谁”，而是问“哪个指标更重要”</li>
+<li>例如：质量相对成本重要多少，效率相对质量重要多少</li>
+<li>通过成对比较获取专家判断，减少直接打分的随意性</li>
+</ul>
+</li>
+</ol>
+<figure><figcaption>img_2.png</figcaption></figure>
+<ol start="4">
+<li>
+<p><strong>逻辑偏差校准</strong></p>
+<ul>
+<li>AHP 不依赖单个专家的主观判断</li>
+<li>可以汇总多位专家意见，取一致性较高的结果</li>
+<li>在论文中，这种方法适合用来处理“质量管理”“供应商选择”“外包团队评价”等多指标综合决策问题</li>
+</ul>
+</li>
+<li>
+<p><strong>最优方案计算</strong></p>
+</li>
+</ol>
+<h2>在论文中的作用</h2>
+<p>这套方法适合放在论文的测量阶段或评价阶段，用来把模糊的管理问题转成可量化的指标权重。<br>
+在我的论文里，它可以用于：</p>
+<ul>
+<li>识别采购、外包、测试、工具等维度的重要性</li>
+<li>为后续熵权法和帕累托分析提供基础</li>
+<li>帮助回答“为什么这个问题最重要”“为什么先改这个环节”这类答辩问题</li>
+</ul>
+<h2>一句话理解</h2>
+<p>AHP 的本质是：<strong>先搭结构，再做比较，最后算权重</strong>。<br>
+它特别适合论文里这种“多指标、多主体、难以直接量化”的管理问题。</p>
+<h2>AHP 层次结构图</h2>
+<h3>图的含义</h3>
+<ul>
+<li><strong>目标层</strong>：要解决什么问题，这里是“找个女朋友”。</li>
+<li><strong>因素层</strong>：评价时需要考虑哪些维度，这里是“健康状况、相貌、经济状况、家庭背景、价值观、生活习惯”。</li>
+<li><strong>方案层</strong>：可供选择的对象是什么，这里是“富婆、知心姐姐、俏皮妹妹”。</li>
+</ul>
+<p>这张图的作用是把一个模糊的决策问题拆成结构化层级，后续就可以通过问卷比较和矩阵计算，得到各方案的综合权重。</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -6269,79 +6362,6 @@ Vue 在标签名属性用 v-bind:prop=&amp;quot;Javascript表达式&amp;quot; �
 <p>如果要设计一些更复杂的拟物图形，可以通过多做拟物图标的练习会更有帮助。在今天扁平化图形当道的环境中，设计得精良的拟物图标往往可以在满屏的扁平图标中脱颖而出，助于吸引用户启动应用。</p>
 <h2>小结</h2>
 <p>启动图标的介绍到这里就结束了，新手该掌握的知识点并不多。无论是更好的字体、图案、插画，都已经进入 LOGO 设计的范畴。如果要在这个领域进一步提升，那么针对性训练的效果反而不理想，需要长期积累视觉、图形的整体设计能力。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>图标种类</title>
-      <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/design/icon/type.html</link>
-      <guid>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/design/icon/type.html</guid>
-      <source url="https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/rss.xml">图标种类</source>
-      <description>设计图标可以划分成三种大类: 工具图标 装饰图标 主体图标 下面将对它们分别进行介绍，以及展示相关的设计类型。</description>
-      <category>设计</category>
-      <pubDate>Sun, 13 Sep 2020 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>设计图标可以划分成三种大类:</p>
-<ul>
-<li>工具图标</li>
-<li>装饰图标</li>
-<li>主体图标</li>
-</ul>
-<p>下面将对它们分别进行介绍，以及展示相关的设计类型。</p>
-<!-- more -->
-<h2>工具图标</h2>
-<p>工具图标是在日常讨论中提及最频繁的图标类型，即应用内有明确功能、提示含义的标识。</p>
-<figure><figcaption>常见的工具图标</figcaption></figure>
-<p>虽然理解起来容易，但是它所包含的设计样式却并不少，可以把它们归纳成线性、面性两个大类，再分别进行细分。</p>
-<h3>线性风格</h3>
-<p>线性图标，即图形是通过线条的描边轮廓勾勒出来的。多数人对它样式认识的第一反应应该是使用纯色的闭合轮廓，比如上图案例，线性图标的创作空间看似不多，但实际上有非常多的调整空间。</p>
-<p>下面我们把它们罗列出来。</p>
-<figure><figcaption>线性风格的工具图标</figcaption></figure>
-<h3>面性风格</h3>
-<p>面性图标，即使用对内容区域进行色彩填充的图标样式。同样，在这类图标中，也不是只能应用纯色的方式进行填充，还有非常多的视觉表现类型。</p>
-<figure><figcaption>面性风格的工具图标</figcaption></figure>
-<h3>混合风格</h3>
-<p>当然，在设计图标类型的时候，也不一定非线性和面性不可，有一些热衷创造和尝试的设计师，还创作出了混合型的图标，既有线性描边的轮廓，又有色彩填充的区域。常见的样式类型如下:</p>
-<figure><figcaption>混合风格的工具图标</figcaption></figure>
-<h2>装饰图标</h2>
-<p>和工具图标比起来，装饰图标的视觉性作用更多。对于一些比较复杂的应用来说，过分的简约并不能弥补信息过多的信噪问题，那么要通过丰富视觉体验的方法来增加内容的观赏性，减少一屏内显示内容的数量。</p>
-<p>比如在分类列表里，是可以只使用线框和文字把大量内容浓缩到一屏以内，但实际浏览效率并不会增加，而且并不美观。</p>
-<figure><figcaption>装饰图标在识别性上的作用</figcaption></figure>
-<p>还有就是国内的界面设计环境，会根据运营需求设计进行特殊化处理，尤其在电商领域，首屏的图标都会改成首页风格的样式，增加活动氛围。</p>
-<figure><figcaption>节日活动中的装饰图标</figcaption></figure>
-<p>装饰性的图标设计，虽然没有明确的规范该怎么做，效果怎么好怎么来，但最常见的类型有四种，下面分别进行介绍。</p>
-<h3>扁平风格</h3>
-<p>扁平风格的装饰图标，通常可以理解成是用扁平插画的方式画出来的图标，除了继承扁平的纯色填充特性以外，也比普通图标有更丰富的细节与趣味性。</p>
-<figure><figcaption>扁平风格的装饰图标</figcaption></figure>
-<h3>拟物风格</h3>
-<p>拟物风格的图标现在出现的频率越来越高，集中在大型的运营活动中，通常这些活动会通过拟物的方式将头部设计成有故事性的场景，所以自然顶部的相关图标使用拟物的设计形式会更贴合。</p>
-<figure><figcaption>拟物风格的装饰图标</figcaption></figure>
-<h3>2.5D 风格</h3>
-<p>2.5D 是一种偏卡通、像素画风格的扁平设计类型，在一些非必要的设计环境中，使用 2.5D 会比较容易搭配主流的界面设计风格，有更强的趣味性和层次感。</p>
-<figure><figcaption>2.5D风格的装饰图标</figcaption></figure>
-<h3>炫彩渐变</h3>
-<p>这是一个拗口的原创名词，找不到更合适的形容，还是觉得浮夸点符合它的气质。这种图标，就是通过一系列非常激进的渐变和撞色实现，通常还会使用彩色的阴影。</p>
-<p>使用这样图标的区域，通常都会呈现出一副五彩斑斓的景象，只有在内容非常丰富且用户偏向年轻化的产品中可以使用，是一种非常难驾驭的设计风格。</p>
-<figure><figcaption>炫彩渐变风格的装饰图标</figcaption></figure>
-<h3>实物贴图</h3>
-<p>采用真实摄影物体的设计风格。它不完全依靠创作和绘制。</p>
-<figure><figcaption>应用摄影实物的装饰图标</figcaption></figure>
-<h2>主体图标</h2>
-<p>主体图标的设计比前面两种类型的图标说起来更难，因为它实际上就是把「LOGO 嵌套进系统图标模版」的图标。</p>
-<p>除了掌握必要的规范以外，主体图标的主体物设计就是 LOGO 的设计。</p>
-<h3>文字形式</h3>
-<p>使用了文字作为图标主体物的类型，通常是这类应用本身的品牌 LOGO 就使用了文字，所以这里就把字体照搬过来。</p>
-<figure><figcaption>文字类的主体图标</figcaption></figure>
-<h3>图标形式</h3>
-<p>对于一些偏工具，适合用简单图形传达应用功能的主体图标，就会采取使用工具图标的方式设计。</p>
-<figure><figcaption>图标类的主体图标</figcaption></figure>
-<h3>图形图标</h3>
-<p>图形形式看起来和图标形式很接近，但实际上完全不属于同一类型，之所以它不是图标，是因为这类图标的主体图形是一种经过高度抽象化的标识，传达的是品牌性，而不是图形的含义。</p>
-<figure><figcaption>图形类的主体图标</figcaption></figure>
-<h3>插画形式</h3>
-<p>对于一些比较纯粹的应用，如读本、漫画、幼儿类应用，就热衷于采用卡通形象作为图标的主体进行设计。</p>
-<figure><figcaption>插画类的主体图标</figcaption></figure>
-<h3>拟物形式</h3>
-<p>虽然现在扁平化的设计占据主导地位，但依旧有很多应用的主体图标是通过拟物的方式设计的。因为对于这些应用来说，拟物设计所传递的信息往往更直观和准确。</p>
-<figure><figcaption>拟物类的主体图标</figcaption></figure>
 ]]></content:encoded>
     </item>
   </channel>
