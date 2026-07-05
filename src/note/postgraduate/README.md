@@ -25,7 +25,8 @@ tag:
 - [课程-大数据决策分析与决策](course_data_analysis.md)
 - [课程-专业外语](course_special_english.md)
 - [课程-创新与创业](course_InnovationAndEntrepreneurship.md)
-- [课程-前沿技术讲座](course_AdvancedEngineeringManagementSeminar)
+- [课程-前沿技术讲座](course_AdvancedEngineeringManagementSeminar.md)
 - [论文](paper.md)
+- [论文-论文-质量管理-基本概念](paper_2.md)
 
 - [**相关链接**]()

@@ -20,7 +20,8 @@ export const note = arraySidebar([
       "course_InnovationAndEntrepreneurship",
       "course_AdvancedEngineeringManagementSeminar",
       "paper",
-      "note",
+      "paper_2",
+      // "note",
     ],
   },
   {
