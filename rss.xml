@@ -6,8 +6,8 @@
     <link>https://liaorenhua.github.io/blog_postgraduate/blog_postgraduate/</link>
     <description>博客承载思想，文字点燃激情.</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 05 Jul 2026 13:23:28 GMT</pubDate>
-    <lastBuildDate>Sun, 05 Jul 2026 13:23:28 GMT</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 03:25:31 GMT</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 03:25:31 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>基于 MIT 协议，© 2025-至今 Leo</copyright>
@@ -1239,10 +1239,10 @@ https://www.bilibili.com/video/BV1P7CtBoEB5?spm_id_from=333.788.recommend_more_v
 <li>为后续熵权法和帕累托分析提供基础</li>
 <li>帮助回答“为什么这个问题最重要”“为什么先改这个环节”这类答辩问题</li>
 </ul>
-<h2>一句话理解</h2>
+<h3>一句话理解</h3>
 <p>AHP 的本质是：<strong>先搭结构，再做比较，最后算权重</strong>。<br>
 它特别适合论文里这种“多指标、多主体、难以直接量化”的管理问题。</p>
-<h2>AHP 层次结构图</h2>
+<h3>AHP 层次结构图</h3>
 <h3>图的含义</h3>
 <ul>
 <li><strong>目标层</strong>：要解决什么问题，这里是“找个女朋友”。</li>
@@ -1250,6 +1250,8 @@ https://www.bilibili.com/video/BV1P7CtBoEB5?spm_id_from=333.788.recommend_more_v
 <li><strong>方案层</strong>：可供选择的对象是什么，这里是“富婆、知心姐姐、俏皮妹妹”。</li>
 </ul>
 <p>这张图的作用是把一个模糊的决策问题拆成结构化层级，后续就可以通过问卷比较和矩阵计算，得到各方案的综合权重。</p>
+<h2>六西格玛</h2>
+<h3>SPIOC</h3>
 ]]></content:encoded>
     </item>
     <item>
